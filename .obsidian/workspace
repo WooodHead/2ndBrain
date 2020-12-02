@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "afa4c6ed7c8a875f",
+    "type": "split",
+    "children": [
+      {
+        "id": "068485578889867a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Navigation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df01478efa525b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac363c14e32f58df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c09727688f5a65d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4d2a29053739526",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#plain-text",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db1f80f8fc35fbfc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231
+  },
+  "right": {
+    "id": "a93b2a2c25b478d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "36da890b688107d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5093c38f82720593",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Navigation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a66adf3ded6126a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbbd700c1102cbb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Navigation.md"
+              }
+            }
+          },
+          {
+            "id": "15724eaf3a71307c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_Navigation.md",
+    "(10) 🧠 Mindsets MOC.md",
+    "_Intro.md",
+    "_Home-page.md",
+    "You’re Missing Out on a More Beautiful Mac Desktop - by Owen Caulfield - Medium.md",
+    "You’re Missing Out on a Better Mac Terminal Experience - by Owen Caulfield - Medium.md",
+    "The Zettelkasten Method- Examples to help you get started. - by Rebecca Williams - Oct, 2020 - Medium.md",
+    "Plaintext Project Links.md",
+    "Plaintext Project Articles.md",
+    "markdown-cheatsheet.md"
+  ]
+}
