@@ -1,0 +1,15 @@
+# Politics
+
+## USA
+
+- [How Russian Money Helped Save Trump’s Business (2019)](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/)
+- [The Fight Goes On (2020)](https://medium.com/@teamwarren/the-fight-goes-on-8f5ca2b4b557)
+- [Pirate Care](https://syllabus.pirate.care/)
+- [China (2020)](https://drewdevault.com/2019/11/20/China.html) ([HN](https://news.ycombinator.com/item?id=21584861))
+- [HN: Twitter to ban political advertising (2019)](https://news.ycombinator.com/item?id=21401973)
+- [Reform or Revolution (1900)](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/)
+- [100 Best Activism Books of All Time](https://bookauthority.org/books/best-activism-books)
+- [Spoke](https://github.com/Elizabeth-Warren/Spoke) - Open source text-distribution tool for organizations to mobilize supporters and members into action.
+- [Tony Benn - 10 min History Lesson for Neoliberals](https://www.youtube.com/watch?v=qX-P4mx1FLU)
+- [Paul Butler - A snapshot of my politics in 2020](https://paulbutler.org/2020/a-snapshot-of-my-politics-in-2020/)
+- [David Shor’s Unified Theory of American Politics (2020)](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)

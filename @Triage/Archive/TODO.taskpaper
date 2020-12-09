@@ -1,0 +1,252 @@
+Inbox:
+	- Cmus Remote @flag
+	- Snippets App
+	- Stremio
+	- Typora
+	- VsCode
+	- Setup Deluge 
+	- Move editorial, mweb and xydark to same folder
+	- Start page with List of Services and Tools
+	- Fitbit firmware hack
+	- Edit Taskpaper stylesheet @done(2020-09-06 13:59)
+	- Setup Iconjar @done(2020-09-06 16:24)
+	- Cmus + Cava @done(2020-09-06 16:26)
+	- Keyboard Maestro @done(2020-09-06 16:26)
+	- Markdown Service tools @done(2020-09-06 16:26)
+	- Pull images from meme app download corresponding tweak @done(2020-09-06 16:27)
+	- Taskpaper Keyboard Maestro setup @done(2020-09-06 16:28)
+	- Calibre @done(2020-09-06 16:28)
+	- Quicklook Plugins @done(2020-09-06 19:53)
+	- Db Poweramp @done(2020-09-06 23:44)
+Data-Curator Filetree: @status(active)
+	- Filebot setup
+	Documents:
+		- Organize File system @now
+		- Create Hazel rules for moving and processing files
+		- Filetags setup
+		- Tag Pdfs
+		- Sync to PDF search iOS
+		- Forklift command-line
+		- PDF Squeeze @done(2020-09-06 16:26)
+		- Pdf search @done(2020-09-06 16:26)
+	Photos:
+		- Import Photos from phone
+		- Wipe pics from phone
+		- Start new iPhoto library
+		- Delete iCloud photos
+		- import tumbler images
+		- import all loose images
+		- Create Groups for sorting
+	Music:
+		- Fill Playlists
+		- Transfer to iPhone
+		- Install deemix @done(2020-09-06 16:26)
+		- Music Brainz Picard @done(2020-09-06 19:52)
+		- Duplicate + add mp3's @done(2020-09-06 22:09)
+		- Convert Music for iTunes @done(2020-09-06 22:33)
+		- Import to iTunes @done(2020-09-06 23:52)
+		- Create Playlists @done(2020-09-07 00:03)
+		- Dougs Scripts @done(2020-09-07 00:07)
+		- Review Meta-Data @done(2020-09-07 00:07)
+	Books:
+		- 
+		- Yac reader app support @done(2020-09-06 16:28)
+	Videos:
+		- 
+Unix Ricing: @status(ongoing)
+	- Yabai + Skhd tweak config
+App:
+	- Audio Applications
+		Converters, editors, players and other audio software
+	- Video Applications
+		Converters, editors, players and other video software
+	- Design & Graphics
+		Filters, plugins and all design & graphics related software
+	- Desktop Enhancements
+		Themes, wallpapers, automator actions, icons, GUI tweaks, widgets and desktop enhancement apps
+	- Business & Productivity
+		Office and productivity tools, organizers, finance, word processing etc
+	- Mac OS X System Utilities
+		Backup, file managers, maintenance, optimization and other system utilities
+	- Internet, Network & Security
+		Anti-virus, browsers, e-mail, firewalls, file sharing and anything on networks and security
+	- Miscellaneous Other Application
+		Mac OS installations, app collections, virtualization and misc. software
+.filetags:
+	- ! !! !!! flag
+	- summer winter spring fall
+	- music video pics book comic app game doc sheet ppt misc
+	- manual guide howto 
+	- home errand virtual work
+	- personal private public share
+	- project assignment task
+	- business veteran school finance survival admin
+	- active ongoing cancelled done
+	- ios mac-os android
+	- draft revised final
+	- coding design productivity archive build
+	- theme script automation config
+	- archive repo backup bookmark
+	- wallpaper icon vector image
+	- test tag rename
+	- system utilities network
+	- src icons template snippet vectors test-docs
+Tag Tree: @status(active)
+	- Solarized @🦊
+		https://ethanschoonover.com/solarized/
+	- Turn on lamp before the Grue eats you! @priority(3)
+	- Edit Taskpaper stylesheet @flag
+	- Edit Taskpaper stylesheet @now
+	- Open window, enter kitchen @next
+	- test @today
+	- test @tomorrow
+	- test @thisweek
+	- test @nextweek
+	- test @pastdue
+	- test @waitingFor(ticket)
+	- Go East  @area(admin)
+	- Go East  @area(business)
+	- Go East  @area(dev)
+	- Go East  @area(errands)
+	- Go East  @area(fun)
+	- Go East  @area(gtd)
+	- Go East  @area(health)
+	- Go East  @area(home)
+	- Go East  @area(media)
+	- Go East  @area(social)
+	- Go East  @area(survival)
+	- Go East  @area(work)
+	- Go North @due(2020-08-22 12:00)
+	- Status symbols @alarm(2020-08-06 19:20)
+	- working @cancelled(2020-08-19 19:06)
+	- estimate @est(1 day and 20 minutes)
+	- ✔ Now it will show the elapsed time @lasted(9h29m)
+	- test @started(2020-08-19 19:05)
+	- test  @wasted(9 hours 28 minutes 53 seconds)
+	- Organzie Projects and split into Lists
+		reveals the grating.
+	---------------------------------
+	–––––––––––––––––––––––––––––––––
+	—————————————————————————————————
+	hh: @status(completed)
+	hh: @status(delivered)
+	hh: @status(cancelled)
+	hh: @status(hold)
+	hh: @status(ongoing)
+	hh: @status(active)
+Coding Projects:
+	Command-Line:
+		- Terminal Cheatsheet - nav fd fzf cheat.sh tldr
+		- Paperboy
+	Textbar:
+		- Nerdbar Config
+		- Command line recipes @done(2020-09-07 01:41)
+	Yabai + SKHD:
+	FireFox:
+	iTerm:
+		- Install iTerm + Zsh
+		- Tmux config
+		- Powerlevel 10k
+		- Zsh autosuggestions
+		- Zsh syntax highlighting
+	Start Page:
+	Cmus:
+		- Install Cmus and MPD
+	TaskPaper:
+	VsCode:
+	GoTop:
+	Ranger:
+	Archive Box:
+	Cava:
+		- CAVA setup
+Customize:
+	Go-to Apps:
+	Go-to Services:
+	Unix Ricing:
+		- Color Scheme
+		- Fonts
+		- Scripts
+		- iTerm Setup
+		- MPD / NCMPCPP config
+		- Yabai + keyboard
+		- Menubar
+		- Ubersicht
+	Automation:
+	File management:
+		- Create Flexible folder structure
+		- Hazel rules
+		- 
+	Music (listening):
+		- Test Swinsian convert + transfer
+	Video (watching):
+	Window Manager:
+	Books + Pdf's (Reading):
+		- Add all pdfs to Calibre
+		- Fix metadata (genre for tags)
+		- Delete dupes
+		- Export PDF's for research
+		- Workflow to Ocr pdfs
+		- Hazel rules move PDF
+	Browser:
+	Pictures (images):
+	Documents:
+		- Ranger settings
+		- Pathfinder settings
+	Assets (src):
+Backup:
+	- Backup / Record settings and preferences
+	- Setup Prep / screenshots
+	- Backup iPhone
+	- Chronosync Sync bigbucket home folder
+First boot:
+	- On first boot, hold Command Option P R keys to clear NVRAM.
+	- Write down backup code
+	- Login iCloud
+	- User - Vibrantrack
+	- Computer name - Proton
+		- When creating the first account, use a strong password without a hint.
+		- If you enter your real name at the account setup process, be aware that your computer's name and local hostname will comprise that name 
+					(e.g., John Appleseed's MacBook) and thus will appear on local networks and in various preference files.
+	- Both should be verified and updated as needed in System Preferences > Sharing or with the following commands after installation 
+				$ sudo scutil --set LocalHostName MacBook
+				$ sudo scutil --set ComputerName MacBook
+	- FileVault provides full disk (technically, full volume) encryption on macOS.
+	- Enable the firewall with logging and stealth mode
+		$ sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setloggingmode on
+			Turning on log mode
+		$ sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setstealthmode on
+			Stealth mode enabled
+	- Users & Groups: Turn OFF the “Guest User” account
+	- Turn off iCloud deplorables
+	- Disable Spotlight Suggestions in both the Spotlight preferences and Safari's Search preferences to avoid your search queries being sent to Apple.
+	- $ xcode-select --install
+	- $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	- $ echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile
+	- Now, use cmd+t to open a new terminal tab and close the old one.
+	- Install core Apps and Packages
+	- HOME FOLDER - bigbucket 
+Install Apps:
+	Clean Slate:
+	- Research what apps to use on new install
+	- 
+	
+	echo 'https://www.reddit.com/r/Vaporwave/comments/hjmins/maxim_covergirl_2020_brinn/' | ./archive
+---------------------------------
+–––––––––––––––––––––––––––––––––
+—————————————————————————————————
+
+
+[Searches]:
+	- Today @search(@today and not @done)
+	- Next Actions @search(project *//((not @done\) and (not @search\)\)[0])
+	- Flagged @search(not @done and @flag)
+	- Context: Work @search(not @done and @context = [i]work)
+	- Context: Home @search(not @done and @context = [i]home)
+	- Due Today @search(not @done and (@today or @due <=[d] today +1d or @due <=[d] today\))
+	- Due within 7 days @search(not @done and (@today or @due <=[d] today +7d or @due <=[d] today\))
+	- Priority: High @search(not @done and (@priority = [i]high or @priority = 1\))
+Archive:
+	- testing 123 🔧🔥⚡️ @done(2020-08-19) @project(Inbox)
+	- Done @done(17-11-03 20:10) @project(Tag Tree)
+	- test @done(2020-08-19 18:51) @project(Coding Projects / Meta)
+	- Add renamed sounds @done(2020-09-04 15:30)

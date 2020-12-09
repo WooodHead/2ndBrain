@@ -1,0 +1,78 @@
+# [Clojure](https://clojure.org)
+
+## Links
+
+- [HN: Clojure learning journey](https://news.ycombinator.com/item?id=16412050)
+- [REPL](https://tonsky.livejournal.com/316868.html) - Is in Russian but describes why REPL development is so amazing.
+- [Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
+- [Полный стэк на "одном" языке](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
+- [cljfmt](https://github.com/weavejester/cljfmt) - Tool for formatting Clojure code.
+- [HN: A year in clojure](https://news.ycombinator.com/item?id=18160390)
+- [Clojure vs. The Static Typing World](https://lispcast.com/clojure-and-types/)
+- [clojure-lsp](https://github.com/snoe/clojure-lsp) - Language Server (LSP) for Clojure.
+- [Clojure is a product design tool (2018)](https://lobste.rs/s/vyehjy/clojure_is_product_design_tool)
+- [HN: Clojure at Netflix (2013)](https://news.ycombinator.com/item?id=18345243)
+- [kaocha](https://github.com/lambdaisland/kaocha) - Full featured next gen Clojure test runner.
+- [Manifold](https://github.com/ztellman/manifold) - Compatibility layer for event-driven abstractions.
+- [REBL](https://github.com/cognitect-labs/REBL-distro) - Graphical, interactive tool for browsing Clojure data.
+- [Clojure's slow start — what's inside? (2018)](http://clojure-goes-fast.com/blog/clojures-slow-start/)
+- [Maybe Not - Rich Hickey (2018)](https://www.youtube.com/watch?v=YR5WdGrpoug)
+- [Virgil](https://github.com/ztellman/virgil) - Your own personal JVM psychopomp.
+- [Luminus](http://www.luminusweb.net/) - Clojure micro-framework based on a set of lightweight libraries.
+- [clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM.
+- [Data > Functions > Macros. But why? (2018)](https://lispcast.com/data-functions-macros-why/)
+- [edn](https://github.com/edn-format/edn) - Extensible Data Notation. Superset of edn is used by Clojure to represent programs.
+- [spectrum](https://github.com/arohner/spectrum) - Library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time.
+- [Fast Tensors in Clojure - a Sneak Peek](https://dragan.rocks/articles/19/Fast-tensors-Clojure-sneak-peek?src=hn) ([HN](https://news.ycombinator.com/item?id=20798874))
+- [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure (2013)](https://www.youtube.com/watch?v=wASCH_gPnDw)
+- [Small Clojure Interpreter](https://github.com/borkdude/sci) - Tiny implementation of Clojure in Clojure. ([HN](https://news.ycombinator.com/item?id=21179037))
+- [Elements of Clojure book](https://elementsofclojure.com/)
+- [Elements of Clojure with Zach Tellman](https://www.therepl.net/episodes/23/) ([HN](https://news.ycombinator.com/item?id=21090288))
+- [Love Letter To Clojure (2019)](https://itrevolution.com/love-letter-to-clojure-part-1/)
+- [Transcripts of Clojure-related talks](https://github.com/matthiasn/talk-transcripts)
+- [core.typed](https://github.com/clojure/core.typed) - Optional type system for Clojure.
+- [Small Clojure Interpreter playground](https://borkdude.github.io/sci.web/)
+- [Naked Performance (with Clojure) – Tommi Reiman (2019)](https://www.youtube.com/watch?v=3SSHjKT3ZmA)
+- [Building My Own Clojure Tools - Nikita Prokopov (2019)](https://www.youtube.com/watch?v=l1b7Da2DnPo)
+- [cljdoc](https://cljdoc.org/) - Central documentation hub for the Clojure community.
+- [SICP Distilled](http://www.sicpdistilled.com/) - Idiosyncratic tour of SICP in Clojure.
+- [The Clojure Mindshare (2019)](https://groundedsage.netlify.com/posts/the-clojure-mindshare/)
+- [Clojure Katas](https://github.com/chefy-io/clojure-katas)
+- [babashka](https://github.com/borkdude/babashka) - Executing Clojure snippets or scripts in the same space where you would use Bash. ([Talk](https://www.youtube.com/watch?v=Nw8aN-nrdEk))
+- [Clojure Koans](https://github.com/functional-koans/clojure-koans) - Set of exercises for learning Clojure.
+- [State of Clojure 2020](https://clojure.org/news/2020/02/20/state-of-clojure-2020) ([HN](https://news.ycombinator.com/item?id=22379603))
+- [Clojurians Zulip Chat](https://clojurians.zulipchat.com/login/)
+- [Clojure: the Lisp that wants to spread (2020)](https://simongray.github.io/essays/spread.html) ([HN](https://news.ycombinator.com/item?id=22458827))
+- [REPL Debugging: No Stacktrace Required (2017)](http://blog.cognitect.com/blog/2017/6/5/repl-debugging-no-stacktrace-required) ([HN](https://news.ycombinator.com/item?id=22512273))
+- [Clojure Chat Streams](https://scicloj.github.io/pages/chat_streams/)
+- [Clojure is Great (2020)](https://www.reddit.com/r/Clojure/comments/fzvosa/holy_cow_clojure_is_great/)
+- [clj-kondo](https://github.com/borkdude/clj-kondo) - Linter for Clojure code that sparks joy.
+- [Clojure beginner resources](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
+- [Clojure Distilled](https://yogthos.net/ClojureDistilled.html)
+- [Clojure for Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+- [Introduction to Clojure – Modern dialect of Lisp (2013)](https://www.creativeapplications.net/tutorials/introduction-to-clojure-part-1/)
+- [ClojureRS](https://github.com/Tko1/ClojureRS) - Clojure, implemented atop Rust.
+- [Joker](https://github.com/candid82/joker) - Small Clojure interpreter and linter written in Go.
+- [4Clojure](http://www.4clojure.com/) - Resource to help fledgling clojurians learn the language through interactive problems. ([Code](https://github.com/4clojure/4clojure))
+- [History of Clojure – Rich Hickey](https://clojure.org/about/history) ([HN](https://news.ycombinator.com/item?id=23418699))
+- [Better Clojure formatting (2018)](https://tonsky.me/blog/clojurefmt/)
+- [Clojure outside the JVM (2020)](https://www.reddit.com/r/Clojure/comments/h0elw5/clojure_outside_the_jvm/)
+- [Why I'm Productive in Clojure (2013)](https://yogthos.net/posts/2013-08-18-Why-I-m-Productive-in-Clojure.html)
+- [Logging in Clojure: Making Sense of the Mess (2020)](https://lambdaisland.com/blog/2020-06-12-logging-in-clojure-making-sense-of-the-mess)
+- [Transducers From The Ground Up (2020)](https://bsless.github.io/transducers-intro/)
+- [Clojure Learning Program](https://github.com/athensresearch/ClojureFam)
+- [Clojure Basics: Debugging with the REPL (2020)](https://www.youtube.com/watch?v=tpcl5pjkRTQ)
+- [Programming at the REPL (2018)](https://clojure.org/guides/repl/guidelines_for_repl_aided_development) ([HN](https://news.ycombinator.com/item?id=23791152))
+- [Nubank acquires Cognitect (2020)](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank) ([HN](https://news.ycombinator.com/item?id=23926407))
+- [Cursive](https://cursive-ide.com/) - IDE for beautiful Clojure(Script) code. ([Lobsters](https://lobste.rs/s/2iyiwy/cursive_ide_for_beautiful_clojure_code))
+- [Clojurists Together](https://www.clojuriststogether.org/) - Funding critical Clojure open source software.
+- [(N)vim for Clojure development (2020)](https://tomekw.com/nvim-for-clojure-development/)
+- [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
+- [Clojure Reddit](https://www.reddit.com/r/Clojure/) - Has nice resources in sidebar.
+- [Using Clojure in Command Line with Babashka (2020)](https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html)
+- [Deep Diamond - Deep Learning in Clojure is Fast, Simpler than Keras (2020)](https://dragan.rocks/articles/20/Deep-Diamond-Deep-Learning-in-Clojure-is-Fast-and-Simpler-than-Keras)
+- [What Clojure Spec is and what you can do with it (2020)](https://www.pixelated-noise.com/blog/2020/09/10/what-spec-is/) ([HN](https://news.ycombinator.com/item?id=24432461))
+- [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
+- [Essential Reference for the Clojure Standard Library](https://freecontent.manning.com/meet-the-clojure-standard-library/)
+- [Local memoized recursive functions (2020)](https://quanttype.net/posts/2020-09-20-local-memoized-recursive-functions.html)
+- [Clojure Notes](https://github.com/gnebbia/clojure_notes)

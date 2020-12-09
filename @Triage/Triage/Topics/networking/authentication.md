@@ -1,0 +1,66 @@
+# Authentication
+
+## Links
+
+- [Firebase Auth](https://firebase.google.com/docs/auth)
+- [IndieAuth specification proposal](https://indieauth.spec.indieweb.org/) ([Code](https://github.com/indieweb/indieauth))
+- [Ask HN: How do you currently solve authentication? (2020)](https://news.ycombinator.com/item?id=22157166)
+- [frauth](https://github.com/jamesmunns/frauth) - Command line tool to verify the identity of friends in a decentralized manner.
+- [JWT is Awesome: Here's Why (2020)](https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/) ([HN](https://news.ycombinator.com/item?id=22354534))
+- [Learn Authentication The Hard Way (2020)](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
+- [Ask HN: What are problems with implementing authentication and authorization? (2020)](https://news.ycombinator.com/item?id=22512786)
+- [BitAuth](https://bitauth.com/) - Simple, Secure, Passwordless Login.
+- [Zanzibar: Google’s Consistent, Global Authorization System (2019)](https://www.youtube.com/watch?v=mstZT431AeQ)
+- [samlify](https://github.com/tngan/samlify) - Highly configuarable Node.js SAML 2.0 library for Single Sign On.
+- [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Reverse proxy that provides authentication with Google, Github or other providers.
+- [Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/) - Expressing verifiable information on the Web. ([Code](https://github.com/w3c/vc-data-model))
+- [Authelia](https://github.com/authelia/authelia) - Single Sign-On Multi-Factor portal for web apps.
+- [DID](https://did.app/) - Identity Provider, that authenticates users by verifying access to either an email address or securely stored private key.
+- [WebAuthn Awesome](https://github.com/herrjemand/awesome-webauthn) - Curated list of awesome WebAuthn/FIDO2 resources.
+- [The Ultimate Guide to handling JWTs on frontend clients (GraphQL) (2019)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/)
+- [React Google Login](https://github.com/anthonyjgrove/react-google-login) - Google oAUth Sign-in / Log-in Component for React.
+- [OAuth2 for Go](https://github.com/golang/oauth2)
+- [OAuth 2.0 Security Best Current Practice (2020)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15) ([HN](https://news.ycombinator.com/item?id=23080240))
+- [Just-for-me Authentication (2020)](https://brianlovin.com/overthought/just-for-me-authentication)
+- [Feather](https://feather.id/docs) - Lightweight identity platform for adding flexible user authentication and authorization flows to your apps.
+- [Password authentication for web and mobile apps](https://dchest.com/authbook/)
+- [Authentication on the Client Side the Right Way: Cookies vs. Local Storage (2019)](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/) ([Reddit](https://www.reddit.com/r/javascript/comments/gm2taz/authentication_on_the_client_side_the_right_way/))
+- [JSON Web Token (JWT) RFC](https://tools.ietf.org/html/rfc7519) ([Lobsters](https://lobste.rs/s/a106ku/json_web_token_jwt_rfc))
+- [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
+- [Zero-knowledge Auth](https://gist.github.com/ai/5e0a1975e2a0971c66232d33fd526dbf)
+- [AppAuth](https://github.com/openid/AppAuth-iOS) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
+- [Simple Auth Setup for Your React App (2020)](https://arunoda.me/blog/simple-auth-setup-for-your-react-app)
+- [Magic Link](https://magic.link/) - Drop passwords. Use magic links.
+- [User authentication with passwords, What’s SRP? (2020)](https://www.cryptologie.net/article/503/user-authentication-with-passwords-whats-srp/)
+- [JustAuthenticateMe](https://www.justauthenticate.me/) - Passwordless email-based authentication for your web app.
+- [loginsrv](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends.
+- [Designing an Authentication System: a Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html) ([HN](https://news.ycombinator.com/item?id=23352856))
+- [Okta Identity Cloud](https://www.okta.com/) - Gives you one trusted platform to secure every identity in your organization, including your workforce and customers. ([Okta Developer Platform](https://developer.okta.com/))
+- [Building a Secure Signed JWT (2020)](https://fusionauth.io/learn/expert-advice/tokens/building-a-secure-jwt)
+- [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management. ([Go package](https://github.com/Nerzal/gocloak))
+- [TokenCLI](https://github.com/imduffy15/token-cli) - Command line utility for interacting with OAuth2 infrastructure to generate tokens.
+- [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) - New type of identifier that enables verifiable, decentralized digital identity.
+- [jwt](https://github.com/ucarion/jwt) - Golang implementation of JSON Web Tokens (JWT) that helps you avoid common security mistakes.
+- [HN: Pioneers of web cryptography on the future of authentication (2020)](https://news.ycombinator.com/item?id=23454954)
+- [openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust.
+- [OAuth2 Rust](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library.
+- [JavaScript Authentication & Authorization Book/Course](https://gist.github.com/taniarascia/a2d35af43ce133de20ac0a8c72558fea)
+- [ASGI middleware that authenticates users against GitHub](https://github.com/simonw/asgi-auth-github)
+- [JSON Web Token Docs Introduction](https://jwt.io/introduction/)
+- [Auth Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
+- [JWT auth visualized](https://twitter.com/kamranahmedse/status/1273375903511465990)
+- [Simple Auth with Magic.link and Next.js (2020)](https://vercel.com/blog/simple-auth-with-magic-link-and-nextjs)
+- [jwt.ms](https://jwt.ms/) - Decode auth tokens.
+- [Platform authenticators for Web Authentication in Safari 14 (2020)](https://dchest.com/2020/06/27/platform-authenticators-for-web-authentication-in-safari-14/)
+- [OAuth in one picture](https://twitter.com/kamranahmedse/status/1276994010423361540)
+- [Why we won’t be supporting Sign in with Apple (2020)](https://blog.anylist.com/2020/06/sign-in-with-apple/) ([HN](https://news.ycombinator.com/item?id=23681982))
+- [yup-oauth2](https://github.com/dermesser/yup-oauth2) - Utility library which implements several OAuth 2.0 flows. It's mainly used by google-apis-rs, to authenticate against Google services.
+- [AuthGuardian by OneGraph](https://www.onegraph.com/auth-guardian/) - Secure your GraphQL API.
+- [Pass](https://getpass.app/) - Identity app for fintech applications.
+- [Note on Auth](https://github.com/yoshuawuyts/notes/blob/master/computers/architecture/auth.md)
+- [How does Single Sign-On work?](https://twitter.com/kamranahmedse/status/1280266408434302979)
+- [The Future of Online Identity is Decentralized (2020)](https://yarmo.eu/post/future-online-identity-decentralized) ([Lobsters](https://lobste.rs/s/ckalve/future_online_identity_is_decentralized)) ([HN](https://news.ycombinator.com/item?id=23811568))
+- [Everything You Need to Know About OAuth (2.0) (2020)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) ([HN](https://news.ycombinator.com/item?id=23851870))
+- [OAuth 2.0 and OpenID Connect (in plain English) (2018)](https://www.youtube.com/watch?v=996OiexHze0)
+- [Best practices for password hashing and storage](https://tools.ietf.org/html/draft-ietf-kitten-password-storage-00)
+- [Xkit](https://xkit.co/) - Build OAuth integrations in minutes. ([HN](https://news.ycombinator.com/item?id=24121290))

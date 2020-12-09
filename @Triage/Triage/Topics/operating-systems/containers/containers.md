@@ -1,0 +1,49 @@
+# Containers
+
+## Links
+
+- [Awesome containers](https://github.com/tcnksm/awesome-container)
+- [Virtual Machines and Containers (2019)](https://hacker-tools.github.io/virtual-machines/)
+- [Harbor](https://github.com/goharbor/harbor) - Open source trusted cloud native registry project that stores, signs, and scans content.
+- [Toast](https://github.com/stepchowfun/toast) - Containerize your development environment.
+- [Predictive CPU isolation of containers at Netflix (2019)](https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+- [amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
+- [Libpod](https://github.com/containers/libpod) - Library used to create container pods. Home of Podman.
+- [CRFS: Container Registry Filesystem](https://github.com/google/crfs) - Read-only FUSE filesystem that lets you mount a container image, served directly from a container registry (such as gcr.io), without pulling it all locally first.
+- [rkt](https://github.com/rkt/rkt) - Pod-native container engine for Linux. It is composable, secure, and built on standards.
+- [Quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers.
+- [Vagga](https://github.com/tailhook/vagga) - Fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
+- [Falco](https://github.com/falcosecurity/falco) - Container Native Runtime Security. ([Website](https://falco.org/))
+- [Complete Intro to Containers course (2020)](https://frontendmasters.com/courses/complete-intro-containers/)
+- [Container networking zine](https://twitter.com/b0rk/status/1232800388404760581)
+- [trivy](https://github.com/aquasecurity/trivy) - Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
+- [Open Container Initiative Runtime Specification](https://github.com/opencontainers/runtime-spec)
+- [Container Network Interface - networking for Linux containers](https://github.com/containernetworking/cni)
+- [Containers vs. Zones vs. Jails vs. VMs (2017)](https://blog.jessfraz.com/post/containers-zones-jails-vms/) ([HN](https://news.ycombinator.com/item?id=22797688))
+- [Lightweight containers using Linux user namespaces](https://github.com/arachsys/containers)
+- [Build and run containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/container-toolkit)
+- [fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers.
+- [Complete intro to containers](https://btholt.github.io/complete-intro-to-containers/) ([Code](https://github.com/btholt/complete-intro-to-containers))
+- [go-init](https://github.com/pablo-ruth/go-init) - Minimal init system for containers with pre/post hooks.
+- [Borg: The Next Generation (2020)(https://www.eurosys2020.org/wp-content/uploads/2020/04/slides/49_muhammad_tirmazi_slides.pdf) ([HN](https://news.ycombinator.com/item?id=23033180))
+- [ingraind](https://github.com/redsift/ingraind) - Security monitoring agent built around RedBPF for complex containerized environments and endpoints.
+- [Linux containers in a few lines of code (2020)](https://zserge.com/posts/containers/) ([HN](https://news.ycombinator.com/item?id=23165157))
+- [You don't need an image to run a container (2020)](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
+- [libnetwork](https://github.com/moby/libnetwork) - Provides a native Go implementation for connecting containers.
+- [Programming inside a container (2020)](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
+- [Containers from first principles (2020)](https://fzakaria.com/2020/05/31/containers-from-first-principles.html) ([HN](https://news.ycombinator.com/item?id=23424136))
+- [Container technologies at Coinbase: Why Kubernetes is not part of our stack (2020)](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c) ([HN](https://news.ycombinator.com/item?id=23460066))
+- [Kata Containers](https://github.com/kata-containers/kata-containers) - Open source container runtime, building lightweight virtual machines that seamlessly plug into the containers ecosystem.
+- [dumb-init](https://github.com/Yelp/dumb-init) - Simple process supervisor and init system designed to run as PID 1 inside minimal container environments (such as Docker).
+- [containerd](https://github.com/containerd/containerd) - Industry-standard container runtime with an emphasis on simplicity, robustness and portability. ([Web](https://containerd.io/))
+- [Clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
+- [GCR Cleaner](https://github.com/sethvargo/gcr-cleaner) - Delete untagged image refs in Google Container Registry, as a service.
+- [Rootless Containers](https://rootlesscontaine.rs/)
+- [Linux Containers Forum](https://discuss.linuxcontainers.org/)
+- [LXD – next generation system container manager release 4.3 (2020)](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303) ([HN](https://news.ycombinator.com/item?id=23828920))
+- [AWS Containers Roadmap](https://github.com/aws/containers-roadmap)
+- [Nestybox](https://www.nestybox.com/) - Run Docker and Kubernetes in Containers. ([HN](https://news.ycombinator.com/item?id=24084758))
+- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers.
+- [GitHub Container Registry (2020)](https://github.blog/2020-09-01-introducing-github-container-registry/) ([HN](https://news.ycombinator.com/item?id=24343937))
+- [Introduction to runc (2020)](https://danishpraka.sh/2020/07/24/introduction-to-runc.html) ([HN](https://news.ycombinator.com/item?id=24390101))
+- [Cloud Native Buildpacks](https://buildpacks.io/) - Transform your application source code into images that can run on any cloud.

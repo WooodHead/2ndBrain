@@ -1,0 +1,149 @@
+# Git
+
+I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git.
+
+## Notes
+
+- Commit as often as you can. Ideally after each micro-iteration, when something new is working.
+  - This way, at the end of the day you can just rebase the whole branch and squash all of the micro-commits in a whole commit implementing the whole new features.
+- Good git workflow to make changes to new projects: clone, fork (`hub fork`), 'git checkout -b my-feature', work, commit, 'git push -u nikitavoloboev my-feature', work, commit, 'git push'.
+- If you’re doing things right, there’s only two kinds of branches anyways, master and feature branches. Feature branches can be squashed and rebased off master (minimizing the issue of merge conflicts and making for easier management of the commit history) and merged to master from there without requiring further conflict resolution. ([Trunk-Based Development](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/))
+- A Git branch is just a pointer to a commit. Git commits, however, also contain the hash of the parent commit(s), so by referring to that commit you also refer too all ancestors.
+- Squash + rebase (for feature branches) are good for PRs. No one cares that it took you 20 tries to get the feature right, what matters is what went into the pull request, which is usually one commit.
+- [To me the beauty of git stems from the fact that it is an implementation of a functional data structure. It‘s a tree index that is read-only, and updating it involves creating a complete copy of the tree and giving it a new name. Then the only challenge is to make that copy as cheap as possible - for which the tree lends itself, as only the nodes on the path to the root need to get updated. As a result, you get lock-free transactions (branches) and minimal overhead. It is so beautiful in fact that when I think about systems that need to maintain long-running state in concurrent environments, my first reaction is ”split up the state into files, and maintain it through git“.](https://news.ycombinator.com/item?id=21418033)
+
+## Links
+
+- [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [Great Git workflow instructions](https://github.com/rvolosatovs/turtlitto/blob/master/CONTRIBUTING.md)
+- [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
+- [Learn Git branching](https://learngitbranching.js.org/) ([Code](https://github.com/pcottle/learnGitBranching))
+- [Gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories.
+- [Gitea](https://github.com/go-gitea/gitea) - Easiest, fastest, and most painless way of setting up a self-hosted Git service.
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
+- [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history.
+- [git rebase for fame and power](http://www.charlesetc.com/rebase-for-fame/)
+- [gitbatch](https://github.com/isacikgoz/gitbatch) - Manage your git repositories in one place.
+- [Conventional Commits](https://www.conventionalcommits.org/) - Specification for adding human and machine readable meaning to commit messages.
+- [glint](https://github.com/brigand/glint) - Friendly tool for creating commits in the Conventional Commit style.
+- [git absorb](https://github.com/tummychow/git-absorb) - Git commit --fixup, but automatic.
+- [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
+- [git-flow](https://github.com/nvie/gitflow) - Collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
+- [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/status explorer for git.
+- [Lab](https://github.com/zaquestion/lab) - Wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab.
+- [Tips for a disciplined git workflow (2019)](https://drewdevault.com/2019/02/25/Using-git-with-discipline.html) ([Reddit](https://www.reddit.com/r/programming/comments/bfbar2/tips_for_a_disciplined_git_workflow/))
+- [Git Town](https://github.com/Originate/git-town) - Generic, high-level Git workflow support.
+- [libgit2](https://libgit2.org/) - Portable, pure C implementation of the Git core methods provided as a re-entrant linkable library.
+- [git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into master.
+- [rebase-editor](https://github.com/sjurba/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.
+- [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did.
+- [git-rs](https://github.com/chrisdickinson/git-rs) - Implementing git in rust for fun and education.
+- [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
+- [The Many Benefits of Using a Monorepo (2019)](https://pspdfkit.com/blog/2019/benefits-of-a-monorepo/) ([HN](https://news.ycombinator.com/item?id=19795482))
+- [Lefthook](https://github.com/Arkweid/lefthook) - Git hooks manager.
+- [git rebase in depth](https://git-rebase.io/) ([HN](https://news.ycombinator.com/item?id=19877811))
+- [Highlights from Git 2.22 (2019)](https://github.blog/2019-06-07-highlights-from-git-2-22/)
+- [What is a fork, really, and how GitHub changed its meaning (2019)](https://drewdevault.com/2019/05/24/What-is-a-fork.html) ([Lobsters](https://lobste.rs/s/txx8vu/what_is_fork_really_how_github_changed_its)) ([HN](https://news.ycombinator.com/item?id=20001570))
+- [More productive Git](https://increment.com/open-source/more-productive-git/) ([HN](https://news.ycombinator.com/item?id=20004224))
+- [List of commonly used Git commands](https://github.com/joshnh/Git-Commands)
+- [Hercules](https://github.com/src-d/hercules) - Fast, insightful and highly customizable Git history analysis.
+- [Git Tower Guides](https://www.git-tower.com/learn/)
+- [git-stashout](https://github.com/aviaviavi/git-stashout) - Custom git checkout command to automatically manage a per-branch stash.
+- [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git.
+- [Git Standards (2018)](https://blog.carlmjohnson.net/post/2018/git-gud/)
+- [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
+- [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command.
+- [git-revise](https://github.com/mystor/git-revise) - Handy tool for doing efficient in-memory commit rebases & fixups.
+- [git-secret](https://github.com/sobolevn/git-secret) - Bash-tool to store your private data inside a git repository.
+- [pre-commit](https://github.com/pre-commit/pre-commit) - Framework for managing and maintaining multi-language pre-commit hooks.
+- [git-o-matic](https://github.com/muesli/gitomatic) - Tool to monitor git repositories and automatically pull & push changes.
+- [GitGraph.js](https://github.com/nicoespeon/gitgraph.js) - JavaScript library to draw pretty git graphs in the browser.
+- [Git First-Parent-- Have your messy history and eat it too (2018)](http://www.davidchudzicki.com/posts/first-parent/)
+- [Git Alias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control.
+- [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.
+- [Apache Arrow Git Tips](https://andygrove.io/apache_arrow_git_tips/)
+- [GitSheet](https://gitsheet.wtf/) - Dead simple git cheatsheet.
+- [Git Commit naming](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg)
+- [HN: My Favourite Git Commit (2019)](https://news.ycombinator.com/item?id=21289827)
+- [Onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
+- [Delta](https://github.com/dandavison/delta) - Syntax-highlighting pager for git.
+- [Building Git](https://shop.jcoglan.com/building-git/) - Deep dive into the internals of the Git version control system.
+- [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust.
+- [sourcehut](https://sourcehut.org/) - Suite of open source tools for managing git projects.
+- [Sourcehut's year in alpha (2019)](https://sourcehut.org/blog/2019-11-15-sourcehut-1-year-alpha/) ([HN](https://news.ycombinator.com/item?id=21545145))
+- [Sourcehut Project Hub](https://sourcehut.org/blog/2020-04-30-the-sourcehut-hub-is-live/) ([HN](https://news.ycombinator.com/item?id=23030489)) ([Lobsters](https://lobste.rs/s/y4zfxk/announcing_sourcehut_project_hub))
+- [Awesome Monorepo](https://github.com/korfuri/awesome-monorepo) - Curated list of awesome Monorepo tools, software and architectures.
+- [rug](https://github.com/samrat/rug) - Stripped-down version of Git, implemented in Rust.
+- [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
+- [GitUp](https://gitup.co/) - Git client with nice interface.
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) ([HN](https://news.ycombinator.com/item?id=21755090))
+- [Stacked Diffs Versus Pull Requests (2018)](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
+- [Barebones git (2019)](https://artemix.org/blog/barebones-git.html) ([Lobsters](https://lobste.rs/s/7khgtp/barebones_git))
+- [git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time.
+- [Git power tools for daily use (2018)](https://nvie.com/posts/git-power-tools/)
+- [git-toolbelt](https://github.com/nvie/git-toolbelt) - Suite of useful Git commands that aid with scripting or every day command line usage.
+- [git-series](https://github.com/git-series/git-series) - Track changes to a patch series over time.
+- [Moving a Git Repository into Its Submodule (2020)](https://pspdfkit.com/blog/2020/moving-a-git-repository-into-its-submodule/)
+- [Ignoring bulk change commits with git blame (2019)](https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame)
+- [git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems.
+- [Release It](https://github.com/release-it/release-it) - Automate versioning and package publishing.
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Guide to using Git, a version control system. Fast, powerful, easy to learn.
+- [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+- [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github)
+- [Bliss](https://github.com/ajmwagar/bliss) - "batteries included" .gitignore management tool.
+- [Vaibhav Sagar - I Haskell a Git (2018)](https://www.youtube.com/watch?v=nVvvY5VRs8o)
+- [Nx](https://github.com/nrwl/nx/) - Extensible Dev Tools for Monorepos.
+- [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web. ([Code](https://github.com/summitech/gitexplorer))
+- [Please stop recommending Git Flow (2020)](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) ([HN](https://news.ycombinator.com/item?id=22485489)) ([Lobsters](https://lobste.rs/s/o76cit/please_stop_recommending_git_flow))
+- [git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your tracking branches whose upstream branches are merged or gone.
+- [A successful Git branching model (2020)](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Belay](https://github.com/JoshMcguigan/belay) - Makes it easy to run your CI checks locally, so you can git push with confidence.
+- [Little Things I Like to Do with Git (2017)](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
+- [gsync](https://github.com/ScaleComputing/gsync) - rsync-like command to sync a git repo to a remote machine via git itself.
+- [go-git](https://github.com/go-git/go-git) - Highly extensible Git implementation in pure Go.
+- [Databases that use git as a backend? (2020)](https://lobste.rs/s/mb2hi2/databases_use_git_as_backend)
+- [Self-hosting a tiny git remote (2020)](https://benjaminwil.info/weblog/self-hosted-git-remote/)
+- [dgit](https://github.com/quorumcontrol/dgit) - Git with decentralized remotes. ([HN](https://news.ycombinator.com/item?id=22684945))
+- [Setting Up Git Identities (2020)](https://www.micah.soy/posts/setting-up-git-identities/) ([HN](https://news.ycombinator.com/item?id=22672491))
+- [Git Immersion](http://gitimmersion.com/) - Guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+- [Ship.js](https://github.com/algolia/shipjs) - Take control of what is going to be your next release.
+- [Git Under the Hood Internals, Techniques, and Rewriting History (2019)](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/)
+- [libgit2](https://github.com/libgit2/libgit2) - Cross-platform, linkable library implementation of Git that you can use in your application.
+- [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
+- [My unorthodox, branchless git workflow (2020)](https://drewdevault.com/2020/04/05/My-weird-branchless-git-workflow.html) ([Lobsters](https://lobste.rs/s/lymznu/my_unorthodox_branchless_git_workflow)) ([HN](https://news.ycombinator.com/item?id=22793512))
+- [Git Cola](https://git-cola.github.io/) - Sleek and powerful graphical user interface for Git. ([Code](https://github.com/git-cola/git-cola))
+- [Ultra Runner](https://github.com/folke/ultra-runner) - Ultra fast monorepo script runner and build tool.
+- [git-fame](https://github.com/casperdcl/git-fame) - Pretty-print git repository collaborators sorted by contributions.
+- [Collection of .gitignore templates](https://github.com/github/gitignore)
+- [CS Visualized: Useful Git Commands (2020)](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+- [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management.
+- [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement).
+- [The Communicative Value of Using Git Well (2020)](https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well/)
+- [go-gitdiff](https://github.com/bluekeyes/go-gitdiff) - Go library for parsing and applying patches created by Git.
+- [degit](https://github.com/Rich-Harris/degit) - Makes copies of git repositories.
+- [Git branch naming conventions](https://deepsource.io/blog/git-branch-naming-conventions/) ([HN](https://news.ycombinator.com/item?id=23043881))
+- [Git Command Overview with Useful Flags and Aliases (2020)](https://blog.jakuba.net/git-command-overview-with-useful-flags-and-aliases/)
+- [Question: How does git detect renames? (2020)](https://chelseatroy.com/2020/04/20/question-how-does-git-detect-renames/) ([Lobsters](https://lobste.rs/s/bmfiiw/question_how_does_git_detect_renames))
+- [Git Koans (2013)](https://stevelosh.com/blog/2013/04/git-koans/)
+- [Sublime Merge](https://www.sublimemerge.com) - Git Client, done Sublime. Line-by-line Staging. Commit Editing. Unmatched Performance. ([[HN](https://news.ycombinator.com/item?id=23311093)])
+- [GitUI](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
+- [gitea-release Tool Announcement (2020)](https://christine.website/blog/gitea-release-tool-2020-05-31)
+- [git-fuzzy](https://github.com/bigH/git-fuzzy) - CLI interface to git that relies heavily on fzf. ([HN](https://news.ycombinator.com/item?id=23363767))
+- [DeGit](https://github.com/yegor256/degit) - Decentralized Git projects hosting platform.
+- [How to write good Git commit messages (2020)](https://altcampus.io/blog/how-to-write-good-git-commit-message) ([HN](https://news.ycombinator.com/item?id=23479465))
+- [gitignore.io](https://www.toptal.com/developers/gitignore) - Create Useful .gitignore Files For Your Project. ([Code](https://github.com/toptal/gitignore.io))
+- [Speeding up a Git monorepo at Dropbox with <200 lines of code (2020)](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code) ([HN](https://news.ycombinator.com/item?id=23480198))
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [Using Rust to Delete Gitignored Cruft (2020)](https://www.forrestthewoods.com/blog/using-rust-to-delete-gitignored-cruft/)
+- [The Problem with Git Flow (2020)](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/) ([HN](https://news.ycombinator.com/item?id=23622071))
+- [Ask HN: Git alternatives that aren't so complicated? (2020)](https://news.ycombinator.com/item?id=23670757)
+- [Git Concepts I Wish I Knew Years Ago (2020)](https://dev.to/g_abud/advanced-git-reference-1o9j)
+- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git.
+- [Git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/) ([HN](https://news.ycombinator.com/item?id=23767866))
+- [A Better Way to Git Log to Understand Changes in a Big Codebase (2020)](https://pspdfkit.com/blog/2020/a-better-way-to-git-log/)
+- [Write good commit messages (2020)](https://letterstoanewdeveloper.com/2020/07/27/write-good-commit-messages/) ([Lobsters](https://lobste.rs/s/z2vjet/write_good_commit_messages))
+- [Just One Single History](https://github.com/esrlabs/josh) - Aimed at supporting trunk based development in a Git monorepo.
+- [gix](https://github.com/Byron/gitoxide) - Idiomatic, modern, lean, fast, safe & pure rust implementation of git.
+- [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) - Convenient command-line tool helping you keep repositories clean. ([HN](https://news.ycombinator.com/item?id=24135860))

@@ -1,0 +1,20 @@
+# High frequency trading
+
+## Links
+
+- [4 – LES MOËRES (2019)](https://sniperinmahwah.wordpress.com/)
+- [Ask HN: What programming skills are required by HFT or Trading firms (2020)](https://news.ycombinator.com/item?id=23190601)
+- [HFT in My Backyard (2014)](https://sniperinmahwah.wordpress.com/2014/09/22/hft-in-my-backyard-part-i/) ([HN](https://news.ycombinator.com/item?id=23413236))
+- [Machine Learning for Trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Notebooks, resources, and references accompanying the book Machine Learning for Algorithmic Trading.
+- [Surpriver](https://github.com/tradytics/surpriver) - Find High Moving Stocks before they Move.
+- [TA-Lib](https://ta-lib.org/) - Technical Analysis Library. ([Python wrapper](https://github.com/mrjbq7/ta-lib))
+- [Timekeeping in Financial Exchanges (2020)](https://www.lucaspauker.ml/articles/20) ([HN](https://news.ycombinator.com/item?id=24746836))
+- [TF Quant Finance](https://github.com/google/tf-quant-finance) - TensorFlow based Quant Finance Library.
+- [Quantopian](https://www.quantopian.com/home) - Place For Learning Quant Finance. ([GitHub](https://github.com/quantopian))
+- [We chose Java for our High-Frequency Trading application (2020)](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) ([HN](https://news.ycombinator.com/item?id=24895395))
+- [Tradytics](https://www.tradytics.com/) - Artificial Intelligence Driven Trading.
+- [Zipline](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library. ([Docs](https://www.zipline.io/))
+- [GS Quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance.
+- [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
+- [Cuemacro](https://www.cuemacro.com/) - On understanding macro markets from a quantitative perspective, in particular currency markets. ([GitHub](https://github.com/cuemacro))
+- [Bayesian Portfolio Optimization - A Stationary Process](http://www.stationaryprocess.com/bayesian-portfolio-optimization/#)

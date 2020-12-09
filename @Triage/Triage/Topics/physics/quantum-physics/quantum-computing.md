@@ -1,0 +1,47 @@
+# [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
+
+## Links
+
+- [Quantum Computers Explained](https://www.youtube.com/watch?v=JhHMJCUmq28)
+- [Curry](https://github.com/LSaldyt/curry) - Prototype for a quantum probabilistic programming language.
+- [How the quantum search algorithm works (2019)](https://quantum.country/search) ([HN](https://news.ycombinator.com/item?id=19684141))
+- [learn-quantum](https://github.com/unixpickle/learn-quantum) - Learning about quantum computing.
+- [Arrow of Time and its Reversal on IBM Quantum Computer](https://arxiv.org/pdf/1712.10057.pdf)
+- [Finally, Proof That Quantum Computing Can Boost Machine Learning (2019)](https://singularityhub.com/2019/03/17/finally-proof-that-quantum-computing-can-boost-machine-learning/)
+- [Quantum Computing for English Majors (2019)](https://blogs.scientificamerican.com/cross-check/quantum-computing-for-english-majors/)
+- [Quilc](https://github.com/rigetti/quilc) - Advanced optimizing compiler for the quantum instruction language Quil.
+- [Rigetti](https://www.rigetti.com/) - Bringing hardware and application development closer together can shorten the timeline to quantum advantage.
+- [HN: IBM will soon launch a 53-qubit quantum computer (2019)](https://news.ycombinator.com/item?id=21004615)
+- [Scott’s Supreme Quantum Supremacy FAQ! (2019)](https://www.scottaaronson.com/blog/?p=4317) ([HN](https://news.ycombinator.com/item?id=21053405))
+- [Precise measurement of quantum observables with neural-network estimators (2019)](https://arxiv.org/abs/1910.07596)
+- [Quantum supremacy using a programmable superconducting processor (2019)](https://www.nature.com/articles/s41586-019-1666-5)
+- [Why I Called It ‘Quantum Supremacy’](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
+- [Quantum attacks on Bitcoin, and how to protect against them (2017)](https://arxiv.org/abs/1710.10377)
+- [Quantum supremacy: the gloves are off (2019)](https://www.scottaaronson.com/blog/?p=4372) ([HN](https://news.ycombinator.com/item?id=21335907))
+- [ELI 5 of quantum computing](https://news.ycombinator.com/item?id=21337938)
+- [Quantum Supremacy Using a Programmable Superconducting Processor (2019)](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html) ([HN](https://news.ycombinator.com/item?id=21332768))
+- [Quantum supremacy using a programmable superconducting processor - J. Martinis (2019)](https://www.youtube.com/watch?v=FklMpRiTeTA)
+- [Quantum Country](https://quantum.country/) - Free introduction to quantum computing and quantum mechanics.
+- [Quantum mechanics distilled](https://quantum.country/qm)
+- [Qiskit](https://qiskit.org/) - Open-source quantum computing software development framework for leveraging today's quantum processors in research, education, and business.
+- [Quantum Computation and Quantum Information by Nielsen and Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
+- [ARTIQ](https://github.com/m-labs/artiq) - Leading-edge control system for quantum information experiments.
+- [QuTiP](https://github.com/qutip/qutip) - Quantum Toolbox in Python.
+- [TensorFlow Quantum](https://github.com/tensorflow/quantum) - Python framework for hybrid quantum-classical machine learning that is primarily focused on modeling quantum data.
+- [Brief History of Quantum Computers (2020)](https://thecomputation.com/2020/03/19/brief-history-of-quantum-computing.html)
+- [Lecture Notes on Quantum Computation (2020)](https://github.com/mdnls/cs7805-final-presentation)
+- [discopy](https://github.com/oxford-quantum-group/discopy) - Toolbox for computing with monoidal categories.
+- [Introduction to Quantum Information Science Lecture Notes (2018)](https://www.scottaaronson.com/qclec.pdf)
+- [The Argument Against Quantum Computers and the Quantum Laws of Nature](https://news.ycombinator.com/item?id=23291071)
+- [Quil: A Portable Quantum Instruction Language](https://github.com/rigetti/quil)
+- [Rigetti Computing](https://rigetti.com/) - On a mission to build the world's most powerful computer.
+- [PyQuil](https://github.com/rigetti/pyquil) - Quantum programming in Python.
+- [Grove](https://github.com/rigetti/grove) - Collection of quantum algorithms built using the Rigetti Forest platform.
+- [Picturing Quantum Processes](https://www.cambridge.org/nl/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/picturing-quantum-processes-first-course-quantum-theory-and-diagrammatic-reasoning?format=HB) - A First Course in Quantum Theory and Diagrammatic Reasoning.
+- [A Brief Opinionated Overview of NIST’s Post-Quantum Cryptography Round 3 Candidates (2020)](https://soatok.blog/2020/07/24/a-brief-opinionated-of-nists-post-quantum-cryptography-round-3-candidates/) ([Lobsters](https://lobste.rs/s/t7g14w/brief_opinionated_overview_nist_s_post))
+- [Ask HN: Resources to start learning about quantum computing? (2020)](https://news.ycombinator.com/item?id=23914992)
+- [“Giant atoms” enable quantum processing and communication in one (2020)](http://news.mit.edu/2020/giant-atoms-quantum-processing-communication-0729)
+- [Quantum Game with Photons](https://alpha.quantumgame.io/)
+- [Amazon Braket](https://aws.amazon.com/braket/) - Explore and experiment with quantum computing. ([HN](https://news.ycombinator.com/item?id=24220337))
+- [What Intel Is Planning for The Future of Quantum Computing: Hot Qubits, Cold Control Chips, and Rapid Testing (2020)](https://spectrum.ieee.org/tech-talk/computing/hardware/intels-quantum-computing-plans-hot-qubits-cold-control-chips-and-rapid-testing)
+- [List of quantum information and computation projects in Julia](https://github.com/jlapeyre/JuliaQuantumInformation)

@@ -1,0 +1,21 @@
+body {
+    color: #ccc;
+    background-color: #0f111a;	
+}
+
+input[type=text], input[type=url], input[type=email], input[type=tel] {
+    background-color: #0f111a;
+    border-color: black;
+    color: white;
+}
+
+textarea {
+    background-color: #0f111a;
+    border-color: black;
+	color: white;
+}
+
+label {	
+	color: #b1cae5;
+}
+

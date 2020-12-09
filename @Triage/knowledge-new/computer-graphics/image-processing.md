@@ -1,0 +1,67 @@
+# Image processing
+
+## Links
+
+- [Bild](https://github.com/anthonynsimon/bild) - Collection of parallel image processing algorithms in pure Go.
+- [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
+- [Tiler](https://github.com/nuno-faria/tiler) - Tool to create an image using all kinds of other smaller images (tiles).
+- [Fiji](https://fiji.sc/) - Image processing package — a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.
+- [Create Social Images](https://createsocialimages.com/) ([Code](https://github.com/pshihn/csi))
+- [libvips](https://github.com/libvips/libvips) - Fast image processing library with low memory needs.
+- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+- [Oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded lossless PNG compression optimizer. It can be used via a command-line interface or as a library in other Rust programs.
+- [Glitch This](https://github.com/TotallyNotChase/glitch-this) - Glitchify static images to glitched images and GIFs.
+- [Obscure features of JPEG (2011)](https://hodapple.com/blag/posts/2011-11-24-obscure-features-of-jpeg.html)
+- [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
+- [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
+- [Lossless Image Compression through Super-Resolution](https://github.com/caoscott/SReC) ([HN](https://news.ycombinator.com/item?id=22802909))
+- [Zpng](https://github.com/catid/Zpng) - Better lossless compression than PNG with a simpler algorithm.
+- [butteraugli](https://github.com/google/butteraugli) - Estimates the psychovisual difference between two images.
+- [PIK](https://github.com/google/pik) - New lossy/lossless image format for photos and the internet.
+- [imgmaker](https://github.com/minimaxir/imgmaker) - Create high-quality images programmatically with easily-hackable templates.
+- [Halide](https://github.com/halide/Halide) - Language for fast, portable data-parallel computation. ([Web](https://halide-lang.org/))
+- [video-loops](https://github.com/luluxxxxx/video-loops) - Automatic looping of image sequence using optical flow.
+- [imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-first HTTP microservice for high-level image processing.
+- [Image Segmentation: tips and tricks from 39 Kaggle competitions (2020)](https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/g1okir/d_we_are_putting_together_a_list_of_image/))
+- [Instagram 3D Photo](https://github.com/cyrildiagne/instagram-3d-photo) - Chrome extension that adds a 3d photo effect to Instagram pages.
+- [Segmentation Models](https://github.com/qubvel/segmentation_models) - Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
+- [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved.
+- [dechroma (2020)](https://flak.tedunangst.com/post/dechroma)
+- [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
+- [BlurHash](https://blurha.sh/) - Compact representation of a placeholder for an image. ([Code](https://github.com/woltapp/blurhash))
+- [imgproxy](https://imgproxy.net/) - Fast and secure on-the-fly image processing. ([[Code](https://github.com/imgproxy/imgproxy)])
+- [GPR (General Purpose Raw image format)](https://github.com/gopro/gpr) - 12-bit raw image coding format that is based on Adobe DNG standard.
+- [photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library.
+- [imageproc](https://github.com/image-rs/imageproc) - Image processing operations as rust library.
+- [Thumbor](https://github.com/thumbor/thumbor) - Open-source smart on-demand image cropping, resizing and filters.
+- [ImageMagick](https://imagemagick.org/index.php) - Convert, Edit, or Compose Bitmap Images. ([WASM implementation](https://github.com/dlemstra/Magick.WASM)) ([Deno port](https://github.com/leonelv/deno-imagemagick)) ([Code](https://github.com/ImageMagick/ImageMagick))
+- [Leptonica](https://github.com/DanBloomberg/leptonica) - Open source library containing software that is broadly useful for image processing and image analysis applications. ([Web](http://leptonica.org/))
+- [libspng](https://github.com/randy408/libspng) - C library for reading and writing Portable Network Graphics (PNG) format files with a focus on security and ease of use.
+- [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md) ([HN](https://news.ycombinator.com/item?id=23787674))
+- [jpeg2png](https://github.com/victorvde/jpeg2png) - Silky smooth JPEG decoding - no more artifacts. ([Lobsters](https://lobste.rs/s/qi7jk5/jpeg2png_silky_smooth_jpeg_decoding_no))
+- [VICAR](https://github.com/nasa/VICAR/) - Multi-dimensional image processing software. ([HN](https://news.ycombinator.com/item?id=24026778))
+- [Parallel Seam Carving (2020)](https://shwestrick.github.io/2020/07/29/seam-carve.html) ([HN](https://news.ycombinator.com/item?id=24117330))
+- [Image Resizing by Seam Carving (2017)](https://www.youtube.com/watch?v=6NcIJXTlugc)
+- [AVIF has landed (2020)](https://jakearchibald.com/2020/avif-has-landed/) ([Lobsters](https://lobste.rs/s/hjz9uo/avif_has_landed)) ([HN](https://news.ycombinator.com/item?id=24407241))
+- [imgix](https://www.imgix.com/) - Image processing and optimization API - Image CDN.
+- [cavif](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust.
+- [A Tour of the Tiny and Obfuscated Image Decoder (2020)](http://eastfarthing.com/blog/2020-09-14-decoder/) ([HN](https://news.ycombinator.com/item?id=24468039))
+- [imSearch](https://github.com/rikenmehta03/imsearch) - Generic framework to build your own reverse image search engine.
+- [image-stego](https://github.com/dennis-tra/image-stego) - Novel approach to image manipulation detection.
+- [Lycon](https://github.com/ethereon/lycon) - Minimal and fast image library for Python and C++.
+- [Optimizt](https://github.com/funbox/optimizt) - CLI tool that helps you prepare images during frontend development.
+- [napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python.
+- [NeuralHash](https://github.com/nikcheerla/neuralhash) - Adversarial Steganographic Method For Robust, Imperceptible Watermarking.
+- [gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs from image data.
+- [Image Processing Techniques That You Can Use in Machine Learning Projects (2020)](https://neptune.ai/blog/image-processing-techniques-you-can-use-in-machine-learning)
+- [image-server](https://github.com/kkty/image-server) - Simple http server that accepts an image, converts it to a different format, resizes/compresses it and sends it back.
+- [smartcrop](https://github.com/muesli/smartcrop) - Finds good image crops for arbitrary crop sizes.
+- [Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture (2020)](https://miglopst.github.io/files/gu_isca2020.pdf) ([HN](https://news.ycombinator.com/item?id=24905827))
+- [High throughput JPEG decoder in Verilog for FPGA](https://github.com/ultraembedded/core_jpeg)
+- [Dezoomify](https://dezoomify.ophir.dev/dezoomify/dezoomify.html) - Extracts full high-resolution images from online zoomable image interfaces. ([Code](https://github.com/lovasoa/dezoomify))
+- [libwebp (WebP codec)](https://github.com/webmproject/libwebp) - Library to encode and decode images in WebP format.
+- [WebM](https://www.webmproject.org/) - High-quality, open video format for the web that's freely available to everyone. ([GitHub](https://github.com/webmproject))
+- [Odiff](https://github.com/dmtrKovalenko/odiff) - Fastest in the world pixel-by-pixel image difference tool.
+- [Image Processing in Python: Algorithms, Tools, and Methods You Should Know (2020)](https://neptune.ai/blog/image-processing-in-python-algorithms-tools-and-methods-you-should-know)
+- [Image Super-Resolution](https://github.com/idealo/image-super-resolution) - Upscale and improve the quality of low resolution images.
+- [Primitive Pictures](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. ([Primitive for macOS](https://primitive.lol/))

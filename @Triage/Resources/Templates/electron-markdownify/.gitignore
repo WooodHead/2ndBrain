@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+
+# Mac
+.DS_Store
+
+# Local .npmrc preferences
+.npmrc
+
+# Built packages
+dist
+
+# IDE
+.idea/

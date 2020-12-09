@@ -1,0 +1,364 @@
+# Tools
+
+I love software and non software tools that help me in some way. Most tools I use & like are mentioned appropriately in other parts of the wiki.
+
+## Other
+
+- [Screen](https://screen.so/) - Fast screen sharing with multiplayer control, drawing & video. ([HN](https://news.ycombinator.com/item?id=22676040))
+- [Tuple](https://tuple.app/) - Best remote pair programming app on macOS.
+- [Loom](https://www.loom.com/) - Combines the expressiveness of video with the convenience of messaging.
+- [Lark](https://www.larksuite.com/) - Simplest way to create and collaborate.
+- [Clay](https://clay.run/) - Brings together the best parts of spreadsheets, coding & simple automation.
+- [Graph of Related Subreddits](https://anvaka.github.io/sayit/?query=) ([HN](https://news.ycombinator.com/item?id=22177942))
+- [Ryeboard](https://www.ryeboard.com/) - Ultimate visual workspace.
+- [Navigator](https://navigator.com/) - Makes meetings feel like the best part of work: focused, purposeful and energizing.
+- [Astuto](https://github.com/riggraz/astuto) - Free, open source, self-hosted customer feedback tool.
+- [Pulumi](https://www.pulumi.com/) - Declare cloud infrastructure using real languages. ([HN](https://news.ycombinator.com/item?id=22866714))
+- [Podia](https://www.podia.com/) - Everything you need to sell online courses, downloads, and memberships without worrying about the tech.
+- [Shapecatcher](https://shapecatcher.com/) - Helps you find most similar unicode characters.
+- [Tiny Helpers](https://tiny-helpers.dev/) - Collection of single-purpose online tools for web developers. ([Code](https://github.com/stefanjudis/tiny-helpers))
+- [ProcessKit](https://processkit.com/) - Streamlines repeatable client work, makes your team more efficient, and sets your business up for predictable growth.
+- [HASH](https://hash.ai/) - Complex Systems Simulation. ([Mission](https://hash.ai/about/mission)) ([HN](https://news.ycombinator.com/item?id=21728776))
+- [Espial](https://github.com/jonschoning/espial) - Open-source, web-based bookmarking server.
+- [Frame.io](https://frame.io/) - Video review and collaboration software.
+- [Generated Photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.
+- [faktory](https://github.com/contribsys/faktory) - At a high level, Faktory is a work server. It is the repository for background jobs within your application.
+- [Tray](https://tray.io/) - Quickly integrate your software applications using powerful automated workflows.
+- [golinks](https://github.com/prologic/golinks) - Web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance.
+- [namae](https://namae.dev/) - Check availability of your new app name candidates for major registries at once. ([Code](https://github.com/uetchy/namae))
+- [CommandE](https://getcommande.com/) - Instant Cloud Search.
+- [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely. ([Article](https://www.tomosman.com/posts/what-is-parabola))
+- [Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
+- [Hivewire](https://www.hivewire.co/) - Visual workflow builder for teams and individuals.
+- [Ideanote](https://ideanote.io/) - Move ideas to impact faster.
+- [Replace](https://replace.sh/) - Find and replace blocks of text with sed. ([Code](https://github.com/esemeniuc/replace.sh/))
+- [Logflare](https://logflare.app/) - Affordable log management & event analytics.
+- [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
+- [Draw.io](https://www.draw.io/) - Online diagramming web site that delivers the source in this project. ([Code](https://github.com/jgraph/drawio))
+- [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
+- [f-license](https://github.com/furkansenharputlu/f-license) - Open-source license creation and verification tool.
+- [Pulse](https://pulse.so/) - Keep Remote Teams Aligned No Matter When & Where. ([Twitter](https://twitter.com/leonardofed/status/1264980016850513920))
+- [Readmo](https://readmo.app/) - App that helps you read more. Displays articles in a simplified and distraction-free mode.
+- [Split](https://www.split.io/) - Feature Delivery Platform for engineering teams that want to confidently release features.
+- [Muse](https://museapp.com/) - iPad sketchbook.
+- [MentorCruise](https://mentorcruise.com/) - Connecting Mentors & Mentees in Tech.
+- [Linear](https://linear.app/) - Issue tracking tool you'll enjoy using. ([HN](https://news.ycombinator.com/item?id=23693029))
+- [Reploy](https://getreploy.com/) - Staging environments done right. ([HN](https://news.ycombinator.com/item?id=23917956))
+- [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically.
+- [Outline](https://outline.com/) - Read & annotate without distractions.
+- [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.
+- [Retool](https://retool.com/) - Cuts the time it takes to build internal tools in half.
+- [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
+- [Tara](https://tara.ai/) - Platform for modern product development. ([HN](https://news.ycombinator.com/item?id=23033387))
+- [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
+- [Nekobin](https://nekobin.com/) - Elegant and open-source pastebin service. ([Code](https://github.com/nekobin/nekobin))
+- [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
+- [Kala](https://github.com/ajvb/kala) - Modern Job Scheduler.
+- [Principle](https://principleformac.com/) - Makes it easy to design animated and interactive user interfaces.
+- [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
+- [Cronitor](https://cronitor.io/index) - Cron Monitoring & Uptime Monitoring for Busy Developers.
+- [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.
+- [Quill](https://quill.chat/) - Messaging for groups and teams that stay focused.
+- [Slido](https://www.sli.do/) - Audience interaction made easy.
+- [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
+- [Code Hike](https://codehike.org/) - Marvellous code walkthroughs. ([Code](https://github.com/code-hike/codehike))
+- [Web Clipper](https://clipper.website/) - Open source extension. You can use it to save anything on the web to anywhere. ([Code](https://github.com/webclipper/web-clipper))
+- [Reclaim](https://reclaim.ai/) - Make time when there is none.
+- [Kapwing](https://www.kapwing.com/) - Collaborative platform for creating images, videos, and GIFs.
+- [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
+- [Feedback Fish](https://feedback.fish/) - Collect feedback. Make your customers happy.
+- [Hypothesis](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere. ([HN](https://news.ycombinator.com/item?id=23573852))
+- [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
+- [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
+- [klobie](https://klobie.com/) - Bookmarking tool designed to help synthesize your web research . ([HN](https://news.ycombinator.com/item?id=24004588))
+- [MessageBird](https://messagebird.com/en/) - Zero friction, omnichannel communication. ([HN](https://news.ycombinator.com/item?id=23624854))
+- [Litho](https://www.litho.cc/) - Allows for intuitive and precise input with its touch surface on the underside, custom haptic feedback system and array of motion-tracking sensors.
+- [Runway Financial](https://runway.com/) - Understand financial statements better.
+- [Texts](https://texts.com/) - One inbox. All your texts.
+- [Wire](https://wire.com/en/) - Modern day collaboration meets the most advanced security and superior user experience. ([Code](https://github.com/wireapp/wire))
+- [Commento](https://commento.io/) - Fast, privacy-focused commenting platform.
+- [Raindrop](https://raindrop.io/) - All-in-one bookmark manager.
+- [Cosign](https://cosign.co/login)
+- [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
+- [Friendly Captcha](https://friendlycaptcha.com/) - User-friendly CAPTCHA alternative.
+- [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
+- [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.
+- [Braid](http://www.braidchat.com/) - Team-chat app with a novel UI that leads to better conversations. ([Code](https://github.com/braidchat/braid))
+- [Lighthouse](https://lighthouse.black.af/) - Intelligent Webmention hosting you can rely on.
+- [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
+- [Chartio](https://chartio.com/) - Cloud-based data analytics exploration for all.
+- [Reaction Commerce](https://reactioncommerce.com/) - API-first, modular commerce stack made for ambitious brands and retailers. ([Code](https://github.com/reactioncommerce/reaction))
+- [Sketch.systems](https://sketch.systems/) - Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
+- [Datafold](https://www.datafold.com/) - Diff Tool for SQL Databases. ([HN](https://news.ycombinator.com/item?id=24071955))
+- [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
+- [Headway](https://headwayapp.co/) - Keep customers in the loop about your product with changelogs.
+- [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
+- [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
+- [Amie](https://amie.so/) - Joyful productivity app.
+- [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
+- [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))
+- [Rollbar](https://rollbar.com/) - Error Tracking Software.
+- [Miro](https://miro.com/) - Where distributed teams get work done.
+- [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.
+- [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.
+- [Typeform](https://www.typeform.com/) - Forms & surveys for the people.
+- [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
+- [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
+- [Circle](https://circle.so/) - Modern community platform for creators.
+- [Nodebook](https://github.com/netgusto/nodebook) - Multi-Lang Web REPL + CLI Code runner.
+- [Avatars](https://www.avatars.io/) - Every app needs an avatar. We make it hassle free.
+- [Instatus](https://instatus.com/) - Get your status page.
+- [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
+- [Calendly](https://calendly.com/) - Schedule meetings.
+- [Mighty Cal](https://mightycal.com/) - Smart Scheduling Assistant.
+- [Bit](https://bit.dev/) - The shared component cloud.
+- [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
+- [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
+- [Float](https://www.float.com/) - Resource Planning & Management Software.
+- [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
+- [UFree](http://ufr.ee/) - Sort out what day to meet.
+- [linus.zone](https://linus.zone/) - URL shortener / note sharing service. ([Code](https://github.com/thesephist/zone))
+- [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools.
+- [Updwn](http://updwn.co/) - See what everybody thinks.
+- [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
+- [Sketch Toy](https://sketchtoy.com/) - Draw sketches and share replays with friends.
+- [Fleetsmith](https://www.fleetsmith.com/) - Secure, cloud-based Apple device management via G Suite or Office 365. ([HN](https://news.ycombinator.com/item?id=23629438))
+- [Kolide](https://www.kolide.com/) - Endpoint security solution for teams that value productivity, transparency, and employee happiness.
+- [Axiom](https://axiom.co/) - Store and query unlimited machine data.
+- [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together.
+- [Git.io](https://git.io/) - URL shortener by GitHub.
+- [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable.
+- [Tinybird](https://www.tinybird.co/) - Helps data teams deliver real-time answers faster and at scale.
+- [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
+- [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
+- [Carbon](https://carbon.now.sh/about/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529))
+- [Code to Image Monochromatic](https://code-to-image.now.sh/)
+- [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
+- [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
+- [Remove Image Background](https://www.remove.bg/)
+- [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
+- [Canny](https://canny.io) - Track feedback to build better products.
+- [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
+- [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
+- [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries. ([How it works](https://github.com/google/bloaty/blob/master/doc/how-bloaty-works.md))
+- [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.
+- [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
+- [Mural](https://mural.co/) - Digital workspace for visual collaboration.
+- [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
+- [Tiny Letter](https://tinyletter.com)
+- [Pace](https://pace.dev/) - Minimalist project management tool.
+- [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
+- [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
+- [Hyperobject Toolkit](https://hyperobjects.design/) - Set of technologies developed for creative exploration, collaboration and deployment of generative design and digital manufacturing.
+- [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
+- [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
+- [Dependabot](https://dependabot.com/) - Creates pull requests to keep your dependencies secure and up-to-date.
+- [Causal](https://www.causal.app/) - Clearer way to work with numbers.
+- [Taler](https://www.taler.app/) - Social design sandbox.
+- [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
+- [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
+- [Viable Fit](https://www.viable.fit/) - Measure and improve your product market fit.
+- [Octopus.do](https://octopus.do/sitemap/resource/generator) - Generate Visual Sitemap from sitemap.xml, just write URL. ([HN](https://news.ycombinator.com/item?id=23600645))
+- [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
+- [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
+- [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
+- [Athens](https://github.com/athensresearch/athens) - Open-Source Roam.
+- [JournalBook](https://github.com/trys/JournalBook) - Private, offline-first personal journal.
+- [DeepCode](https://www.deepcode.ai/) - Semantic static code analysis for better software - powered by AI.
+- [Pastel](https://usepastel.com/copy-changes) - Fastest way to suggest copy changes on any website.
+- [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
+- [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
+- [Front](https://frontapp.com/) - Inbox for teams.
+- [Snap.as](https://snap.as/) - Permanent home for your photos.
+- [Primer](https://www.primer.com/) - Get creative with your space. Visualize inspiring ideas right in your space so you can make it perfect.
+- [Watercooler](https://waterc00ler.com/) - Voice chat rooms.
+- [Jsonnet](https://github.com/google/jsonnet) - Data templating language. ([Web](https://jsonnet.org/))
+- [Baremetrics](https://baremetrics.com/) - Subscription Analytics & Insights for Stripe, Braintree, Recurly & more.
+- [Reddit Write](https://redditwrite.datasources.co/) - Writing software trying to help you optimize and create the best reddit posts you can to attract more upvotes and comments.
+- [Rasa](https://rasa.com/) - Open source conversational AI.
+- [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
+- [Smallpdf](https://smallpdf.com/) - All-in-one easy-to-use online PDF tools
+- [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
+- [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
+- [Ditto](http://www.ditto.live/) - Sync Without Internet.
+- [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
+- [NoCo](https://noco.io/) - Low-code platform for engineering teams.
+- [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
+- [Google Cloud Search](https://cloudsearch.google.com) - Helps your employees quickly, easily, and securely find information across the business, whether integrated with G Suite.
+- [Catch](https://www.catch.co/) - Taxes, retirement, health insurance and more — built to work together like they always should have.
+- [Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [Glitterly](https://glitterly.app/) - Create and share videos of your app. ([HN](https://news.ycombinator.com/item?id=24017261))
+- [Skribble](https://www.skribble.com/) - Legally binding electronic signatures.
+- [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec.
+- [Pantry](https://getpantry.cloud/) - Free data storage as a service. A good resource when building personal projects, apps for hackathons, and prototypes alike. ([Code](https://github.com/imRohan/Pantry))
+- [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - Infer parentheses for Clojure, Lisp and Scheme.
+- [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
+- [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free.
+- [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
+- [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [Project Iris](http://iris.karalabe.com/) - Completely decentralized cloud messaging.
+- [yq](https://github.com/mikefarah/yq) - Lightweight and portable command-line YAML processor.
+- [Replies](https://replies.io/) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
+- [Larder](https://larder.io/) - Bookmarking for developers. ([HN](https://news.ycombinator.com/item?id=23442165))
+- [Ready](https://ready.so/) - The calendar you need to meet.
+- [Clockwise](https://www.getclockwise.com/) - Smart calendar assistant that frees up your time so you can focus on what matters.
+- [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
+- [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
+- [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))
+- [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
+- [Lattice](https://lattice.com/) - Performance management and employee engagement.
+- [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.
+- [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
+- [Fixmie](https://fixmie.com/) - Automated code fixes.
+- [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
+- [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
+- [Mathigon](https://mathigon.org/) - Smartest textbook in the world.
+- [Versus](https://versus.com/en) - Discover more than 7 million comparisons. Smartphones, Cities, Apps, Universities and much more.
+- [envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting.
+- [Sheetson](https://sheetson.com/) - Instantly turn any Google Sheet into RESTful API.
+- [Are.na](https://www.are.na/) - Save content, create collections, and connect ideas with other people.
+- [Otter](https://otter.ai/) - Generate rich notes for meetings, interviews, lectures, and other important voice conversations.
+- [Tettra](https://tettra.co/) - Knowledge management system for high-performance teams.
+- [UIBot](http://www.uibot.app/) - Experiment on how far one could automate the generation of visual designs, what kinds of advantages it would lead to and what issues one would face.
+- [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
+- [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
+- [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
+- [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
+- [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
+- [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
+- [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
+- [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.
+- [Stripe CLI](https://github.com/stripe/stripe-cli) - Command-line tool for Stripe.
+- [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
+- [modd](https://github.com/cortesi/modd) - Flexible developer tool that runs processes and responds to filesystem changes.
+- [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+- [Kythe](https://github.com/kythe/kythe) - Pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
+- [StackSnippet](http://www.stacksnippet.com/#gsc.tab=0) - Aims to combine the preciseness of Google Search with Stack Overflow's vast reservoir of helpful code snippets.
+- [fio](https://github.com/axboe/fio) - Flexible I/O Tester.
+- [Sentry](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
+- [Webflow](https://webflow.com/) - Gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you. ([Learn Webflow](https://flowmingo.co/))
+- [Quip](https://quip.com/) - Real-time document collaboration.
+- [Percy](https://percy.io/) - All-in-one visual review platform.
+- [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
+- [Segment](https://segment.com/) - Collect, standardize, and activate your customer data in the marketing and analytics tools you need to run your business, all with a single API.
+- [Lightsheets](https://lightsheets.app/) - New class of spreadsheet software.
+- [Adblock Radio](https://github.com/adblockradio/adblockradio) - Library to block ads on live radio streams and podcasts. Machine learning meets Shazam.
+- [Mutagen](https://github.com/mutagen-io/mutagen) - Make remote development work with your local tools.
+- [Draftbit](https://draftbit.com/) - Visually build native mobile apps—all from your browser.
+- [Betterer](https://github.com/phenomnomnominal/betterer) - Makes it easier to make incremental improvements to your codebase.
+- [Deepsource](https://deepsource.io/) - Detect bug risks, anti-patterns and security vulnerabilities before they end up in production. For Python and Go.
+- [Redirector Server with Google Sheets](https://github.com/ahmetb/serverless-url-shortener) - Simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
+- [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal written in Rust.
+- [List of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
+- [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
+- [Findka](https://findka.com/) - Recommends content you might like based on data from other users with similar preferences. ([HN](https://news.ycombinator.com/item?id=23541840))
+- [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool.
+- [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.
+- [Sanity](https://www.sanity.io/) - Fastest, most flexible platform for delivering content to digital devices and products.
+- [LiveDocs](https://livedocs.io/) - Programmable, self-updating document for futuristic companies.
+- [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
+- [Statebox](https://statebox.org/) - Building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination.
+- [Serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
+- [Crisp](https://crisp.chat/en/) - Give your customer messaging experience a human touch.
+- [Polynote](https://github.com/polynote/polynote) - Better notebook for Scala (and more). ([Article](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)) ([HN](https://news.ycombinator.com/item?id=21337260))
+- [Airbridge](https://airbridge.app/) - Calendar built for people, not companies.
+- [Transform](https://transform.tools/) - Polyglot web converter.
+- [Simple Scraper](https://simplescraper.io/) - Extract data from any website in seconds.
+- [Zulip Chat](https://zulipchat.com/) - Combines the immediacy of real-time chat with an email threading model. ([Code](https://github.com/zulip/zulip/))
+- [Roam Research](https://roamresearch.com/) - Note-taking tool for networked thought.
+- [jazz rooms](https://jazz.ninja/)
+- [Indent](https://indent.com/) - Access requests made easy.
+- [Repren](https://github.com/jlevy/repren) - Simple but flexible command-line tool for rewriting file contents according to a set of regular expression patterns.
+- [SILE](https://github.com/sile-typesetter/sile) - Typesetting system; its job is to produce beautiful printed documents.
+- [CozyCal](https://www.cozycal.com) - Delightfully Simple Scheduling.
+- [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
+- [kache](https://github.com/kasvith/kache) - Simple in memory cache written using go.
+- [Whimsical](https://whimsical.com/) - The Visual Workspace.
+- [linkinator](https://github.com/JustinBeckwith/linkinator) - Scurry around your site and find all those broken links.
+- [Better Twitter](https://bettertwitter.netlify.com/) - Better twitter search UI for power users. ([Code](https://github.com/sw-yx/bettertwitter))
+- [Sacred](https://github.com/IDSIA/sacred) - Tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
+- [Data Puller](https://github.com/austil/datapuller) - Easy" data dump of your activity on various web services.
+- [Short](https://github.com/byliuyang/short) - URL shortening service written in Go and React.
+- [Twitter-Following-To-List-Migration](https://github.com/zackshapiro/Twitter-Following-To-List-Migration) - Creates a new list and adds all accounts you are following to that list, then unfollows them all.
+- [Excalidraw](https://www.excalidraw.com) - Sketch hand-drawn like diagrams. ([Code](https://github.com/excalidraw/excalidraw))
+- [SketchViz](https://sketchviz.com/new) - Create Graphviz graphs.
+- [OverAPI](http://overapi.com/) - Collecting All Cheat Sheets.
+- [TravelTime Maps](https://app.traveltimeplatform.com/) - Put your work postcode in, then the max time you want to travel, and it will show you area's within that travel time.
+- [Tokens for Mac](http://usetokens.com/) - Makes it remarkably easy to generate, share, and track promo codes for your iOS and Mac apps.
+- [workspaces-run](https://github.com/jamiebuilds/workspaces-run) - Run tasks/scripts across Yarn/Lerna/Bolt/etc workspaces.
+- [MacPin](https://github.com/kfix/MacPin) - Creates pseudo-browsers managed with internal JavaScripts.
+- [notehub](https://github.com/chmllr/notehub) - Pastebin for markdown pages.
+- [glog](https://github.com/google/glog) - C++ implementation of the Google logging module.
+- [Sandy](https://github.com/hobochild/sandy) - Tiny sandbox to run untrusted code.
+- [Check Title Length](https://romashamin.github.io/check-title-length/) - Little app that shows how your message’s title and body look in web push and mobile mail list. ([Code](https://github.com/romashamin/check-title-length/))
+- [nicen](https://nicen.pw/) - Format code in different languages.
+- [Preconstruct](https://github.com/preconstruct/preconstruct) - Dev and build your code painlessly in monorepos.
+- [Okta](https://developer.okta.com/) - Adds authentication, authorization, and user management to your web or mobile app within minutes.
+- [Rekki](https://www.rekki.com/) - Free mobile app that lets you order and chat with any supplier.
+- [Envoy](https://envoy.com/) - Makes workplaces safe—no matter what.
+- [Tandem](https://tandem.chat/) - Virtual office for remote teams.
+- [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
+- [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.
+- [Manifest](https://www.manifest.app/) - Instant grid-based pinboard for note taking in your browser ([Code](https://github.com/jonathontoon/manifest)).
+- [Klarity](https://www.klaritylaw.com/) - Automatic review and mark-up of third party contracts.
+- [AssemblyAI](https://www.assemblyai.com/) - Speech-to-Text you can count on.
+- [Changefeed](https://changefeed.app/) - Beautiful changelog for your product in seconds.
+- [dotenv-linter](https://github.com/mgrachev/dotenv-linter) - Linter for .env files. Written in Rust.
+- [Coral](https://coralproject.net/) - Better commenting experience.
+- [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.
+- [Solidarity](https://github.com/infinitered/solidarity) - Environment checker for project dependencies across multiple machines.
+- [GDBFrontend](https://github.com/rohanrhu/gdb-frontend) - Easy, flexible and extensionable GUI debugger.
+- [3Box](https://3box.io/) - Makes it simple to store data securely with your users, letting you focus on building great products.
+- [Edotor](https://edotor.net/) - Online Graphviz Editor. ([Code](https://github.com/nikeee/edotor.net))
+- [destiny](https://github.com/benawad/destiny) - Prettier for File Structures.
+- [Monitoror](https://monitoror.com/) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything. ([Code](https://github.com/monitoror/monitoror))
+- [Cmdstalk](https://github.com/99designs/cmdstalk) - Unix-process-based beanstalkd queue broker.
+- [codemod](https://github.com/facebook/codemod) - Tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention.
+- [Castodia](https://www.castodia.com/) - Pull data from your database directly into Google Sheets.
+- [Ask User](https://askuser.xyz/) - Survey your customers and build exactly what they want.
+- [NeuraCache](https://neuracache.com/) - Take notes & highlights, clip articles & screenshots using your favorite tool.
+- [Uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
+
+## Notes
+
+- [Tips for success in building libraries/tools](https://youtu.be/oiNtnehlaTo?t=2861):
+  1. Scratch your own itch.
+  2. Stand on the shoulders of giants.
+  3. Solve for the 80 % use case.
+  4. Make it easy to adopt/delete.
+
+## Links
+
+- [Hacker Tools](https://hacker-tools.github.io/) - Make the most of the tools that hackers have been using for decades.
+- [The Developer's Toolbox 2018](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)
+- [Seeking the Productive Life: Some Details of My Personal Infrastructure (2019)](https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) ([HN](https://news.ycombinator.com/item?id=19220889))
+- [Awesome Uses Page](https://github.com/wesbos/awesome-uses) - List of /uses pages that detail apps and gear used by professional web developers.
+- [Handy lookup table of similar technology and services to help ex-googlers survive the real world](https://github.com/jhuangtw-dev/xg2xg)
+- [Ask HN: What overlooked class of tools should a self-taught programmer look into (2019)](https://news.ycombinator.com/item?id=19900955)
+- [The Arc of Collaboration (2019)](https://kwokchain.com/2019/08/16/the-arc-of-collaboration/)
+- [Dev.to tech/tools used](https://docs.dev.to/technical-overview/)
+- [Lobsters: What software do you use daily? (2019)](https://lobste.rs/s/j7tc67/what_software_do_you_use_daily)
+- [Product Hunt Golden Kitty Awards 2019](https://www.producthunt.com/golden-kitty-awards-2019)
+- [No Code List](https://nocodelist.co/)
+- [All The Apps That I Pay For (2020)](https://daily.patwalls.co/apps-services-that-i-pay-for) ([HN](https://news.ycombinator.com/item?id=22298247))
+- [My Favorite Tools (2020)](https://gedd.ski/post/favorite-tools/)
+- [Open source, experimental, and tiny tools roundup](http://everest-pipkin.com/teaching/tools.html) - List of smaller tools that might be useful in building your game/website/interactive project.
+- [Ask HN: What are your favorite low-coding apps / tools as a developer? (2020)](https://news.ycombinator.com/item?id=22786853)
+- [Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools)
+- [Ask HN: Programs that saved you 100 hours? (2020)](https://news.ycombinator.com/item?id=22849208)
+- [Lobsters: How does your current dev workflow looks like (2020)](https://lobste.rs/s/qi5dmk/how_does_your_current_dev_workflow_looks)
+- [Lobsters: Tools that made you productive or saved you time (2020)](https://lobste.rs/s/lg2cmt/tools_made_you_productive_saved_you_time)
+- [100 Rabbits Tools Ecosystem](https://100r.co/site/tools_ecosystem.html)
+- [Making Your Own Tools: Devine Lu Linvega (2020)](https://overcast.fm/+JrqbSaAHw)
+- [Ask HN: Which tools have made you a much better programmer? (2020)](https://news.ycombinator.com/item?id=23468193)
+- [Lobsters: What tools made you better programmer (2020)](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+- [What's the software or tool or language or framework where you've felt the _most_ productive? (2020)](https://twitter.com/andrestaltz/status/1270369535225446400)
+- [No Code (2020)](https://vas3k.com/blog/nocode/)
+- [Notion, Roam, and The Future of Doing Work (2020)](https://nbt.substack.com/p/notion-roam-and-the-future-of-doing)
+- [OpenAPM Tools](https://openapm.io/landscape) - Landscape for APM Tools, Obervability Tools and Monitoring Tools.
+- [Ask HN: What is the best enterprise software you use every day? (2020)](https://news.ycombinator.com/item?id=23862903)
+- [Build tools around workflows, not workflows around tools (2020)](https://thesephist.com/posts/tools/)
+- [Linus's list of dev resources / tools / repos](https://linus.zone/dev)

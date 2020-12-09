@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+	<!-- You can change the look of the Markdown preview by editing the CSS below, for example to match your blog/website or just your personal preferences. Things between double curly braces are template variables that are replaced automatically depending on your editor settings. -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<title>Preview</title>
+			<style type="text/css">
+				body {
+					margin: 0;
+					padding: 0;
+					font-size: {{TEXT_FONT_SIZE}}px;
+					font-family: Georgia;
+					line-height: 140%;
+					overflow: hidden;
+				}
+			b, strong {
+				font-weight: 500;
+			}
+			h1, h2, h3, h4, h5, h6 {
+				text-transform: uppercase;
+				font-family: "Futura";
+				font-weight: normal;
+				margin-top: 32px;
+				margin-bottom: 12px;
+				color: #33250f;
+				padding-bottom: 4px;
+			}
+			h1 {
+				font-size: {{H1_FONT_SIZE}}px;
+			}
+			h2 {
+				font-size: {{H2_FONT_SIZE}}px;
+			}
+			h3, h4, h5, h6 {
+				font-size: {{H3_FONT_SIZE}}px);
+			}
+			p {
+				margin-bottom: 12px;
+			}
+			p:last-child {
+				margin-bottom: 0;
+			}
+			ol {
+				list-style: outside decimal;
+			}
+			ul {
+				list-style: outside disc;
+			}
+			li > p {
+				margin-bottom: 12px;
+			}
+			li > ol, li > ul {
+				margin-top: 12px !important;
+				padding-left: 12px;
+			}
+			ol:last-child, ul:last-child {
+				margin-bottom: 12px;
+			}
+			pre {
+				white-space: pre-wrap;
+				margin-bottom: 24px;
+				overflow: hidden;
+				padding: 3px;
+				border-radius: 6px;
+			}
+			code {
+				font-family: "{{CODE_FONT}}", monospace;
+				font-size: 0.9em;
+				white-space: nowrap;
+				padding: 1px;
+				border-radius: 2px;
+			}
+			pre code {
+				font-size: {{CODE_FONT_SIZE}}px;
+				white-space: pre-wrap;
+			}
+			blockquote {
+				border-left: 5px solid #bf9048;
+				font-size: 90%;
+				margin-left: 0;
+				margin-right: auto;
+				width: 95%;
+				padding: 0 10px;
+				background-color: rgba(51, 37, 15, 0.05);
+			}
+			.theme-dark blockquote {
+				border-color: #4d371a;
+			}
+			table {
+				margin-left: auto;
+				margin-right: auto;
+				margin-bottom: 24px;
+				border-bottom: 1px solid #ddd;
+				border-right: 1px solid #ddd;
+				border-spacing: 0;
+			}
+			table th {
+				padding: 3px 10px;
+				border-top: 1px solid #ddd;
+				border-left: 1px solid #ddd;
+			}
+			table td {
+				padding: 3px 10px;
+				border-top: 1px solid #ddd;
+				border-left: 1px solid #ddd;
+			}
+			img {
+				border: none;
+				display: block;
+				margin: 0 auto;
+				max-width: 100%;
+			}
+			hr {
+				border: 0;
+				height: 1px;
+				background-color: #ddd;
+			}
+			.footnote {
+				font-size: 0.8em;
+				vertical-align: super;
+			}
+			.footnotes ol {
+				font-weight: bold;
+			}
+			.footnotes ol li p {
+				font-weight: normal;
+			}
+			#content-wrapper {
+				height: 100%;
+				overflow-y: scroll;
+				overflow-x: hidden;
+				width: 100%;
+			}
+			
+			/* Device-specific styles: */
+			@media only screen and (min-device-width : 768px) {
+				#content {
+					width: auto;
+					padding: 40px;
+				}
+			}
+			@media only screen and (max-device-width : 767px) {
+				#content {
+					width: auto;
+					padding: 12px;
+				}
+			}
+			
+			/* Theme-specific styles */
+			body.theme-default {
+				background-color: #e7e6e4;
+				color: #33250f;
+			}
+			.theme-default a {
+				color: #b92026;
+				-webkit-text-decoration-color: rgba(185, 32, 38, 0.5);
+			}
+			.theme-default pre {
+				background-color: #f6f5f1;
+				border-color: #d9d9d9;
+			}
+			.theme-default code {
+				background-color: #f2f2f2;
+			}
+			body.theme-dark {
+				background-color: #241c1c;
+				color: #ccc;
+			}
+			.theme-dark a {
+				color: #ff8084;
+				-webkit-text-decoration-color: rgba(255, 128, 132, 0.5);
+			}
+			.theme-dark pre {
+				background-color: #362a2b;
+				border-color: #4c565f;
+			}
+			.theme-dark code {
+				background-color: #362a2b;
+			}
+			.theme-dark h1, .theme-dark h2, .theme-dark h3, .theme-dark h4, .theme-dark h5, .theme-dark h6 {
+				color: #ffc266;
+				border-bottom: 1px solid rgba(255, 194, 102, 0.2);
+			}
+			.theme-default h1, .theme-default h2, .theme-default h3, .theme-default h4, .theme-default h5, .theme-default h6 {
+				color: #643e22;
+				border-bottom: 1px solid rgba(51, 37, 15, 0.2);
+			}
+			/* CriticMarkup styles: */
+			.theme-dark ins {
+				background-color: rgba(132, 235, 124, 0.2);
+				color: #86e873;
+				border-radius: 3px;
+				text-decoration: none;
+			}
+			.theme-dark del.cm {
+				background-color: rgba(253, 124, 113, 0.2);
+				color: #ff4043;
+				border-radius: 3px;
+			}
+			.theme-dark span.comment {
+				color: #56e4ff;
+			}
+			.theme-dark span.substitution {
+				background-color: rgba(255, 136, 0, 0.2);
+				color: #ffbb00;
+				border-radius: 3px;
+			}
+			.theme-dark mark {
+				background-color: rgba(182, 108, 251, 0.2);
+				color: #c680ff;
+				border-radius: 3px;
+			}
+			
+			.theme-default ins {
+				background-color: rgba(132, 235, 124, 0.2);
+				color: #4f7a28;
+				border-radius: 3px;
+				text-decoration: none;
+			}
+			.theme-default del.cm {
+				background-color: rgba(253, 124, 113, 0.2);
+				color: #831000;
+				border-radius: 3px;
+			}
+			.theme-default span.comment {
+				color: #10b3cc;
+			}
+			.theme-default span.substitution {
+				background-color: rgba(255, 136, 0, 0.2);
+				color: #e66e12;
+				border-radius: 3px;
+			}
+			.theme-default mark {
+				background-color: rgba(182, 108, 251, 0.2);
+				color: #5d2b8c;
+				border-radius: 3px;
+			}
+			
+			/* Fountain styles: */
+			.scene-heading, .transition, .new-act, .end-of-act, .character {
+				text-transform: uppercase;
+			}
+			
+			.transition {
+				text-align: right;
+			}
+			
+			.new-act, .end-of-act {
+				text-align: center;
+			}
+			
+			.character {
+				margin: 1.3em auto 0;
+				width: 180px;
+			}
+			
+			.dialogue {
+				margin: 0 auto;
+				width: 310px;
+			}
+			
+			.parenthetical {
+				margin: 0 auto;
+				width: 250px;
+			}
+			
+			.scene-heading {
+				margin-top: 2.6em;
+				font-weight: bold;
+				position: relative;
+				padding-right: 40px;
+			}
+			.scene-number-left {
+				float: left;
+				margin-left: -50px;
+			}
+			.scene-number-right {
+				position: absolute;
+				right: 0;
+				top: 0;
+			}
+			#script-title {
+				overflow: hidden;
+				display: block;
+				padding-bottom: 2.6em;
+				margin-bottom: 2.6em;
+			}
+			#script-title .title {
+				text-align: center;
+				margin: 1.3em 0;
+				text-decoration: underline;
+				font-weight: bold;
+				text-transform: uppercase;
+			}
+			#script-title .credit {
+				text-align: center;
+			}
+			#script-title .authors {
+				text-align: center;
+			}
+			#script-title .source {
+				text-align: center;
+				padding-top: 1.3em;
+			}
+			#script-title .notes {
+				padding-top: 2.6em;
+			}
+			#script-title .notes {
+				white-space: pre-line !important;shape-rendering
+			}
+			.center {
+				text-align: center !important;
+			}
+			.dual-dialogue {
+				overflow: hidden;
+			}
+			.dual-dialogue .dual-dialogue-left,
+			.dual-dialogue .dual-dialogue-right {
+				width: 228px;
+				float: left;
+			}
+			.dual-dialogue p {
+				width: auto;
+			}
+			.dual-dialogue .character {
+				text-align: center;
+				padding-left: 40px;
+			}
+			.dual-dialogue .parenthetical {
+				padding-left: 40px;
+			}
+			p.page-break {
+				text-align: right;
+				border-top: 1px solid #ccc;
+				padding-top: 20px;
+				margin-top: 20px;
+			}
+			</style>
+			</head>
+	<body class="{{THEME}}">
+		<div id="content-wrapper">
+			<div id="content">
+				<!-- Important: Don't remove the content placeholder below, and don't change the id of the containing div tag! -->
+				{{CONTENT}}
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,993 @@
+📥 Inbox:
+- Find Military records from inactive reserve (2010 Jun -> 2013 Apr)
+- Homework Workflow
+- [ ] Create New Draft
+- [ ] Complete 1st Draft
+- [ ] Send to Grammarly
+- [ ] Format in Word Online
+- [ ] Save to Content Library
+- [ ] Sync to DevonThink
+- [ ] Archive Draft
+- ✉️ Cloudflare: "[harvey.tech] Monthly traffic report with Argo Smart Routing Analysis"
+		Argo Smart Routing improves the way traffic is routed across the Internet.
+		
+		By analyzing routes taken by visitors to harvey.tech, we've determined that Argo Smart Routing delivers a significant reduction in latency for your domain. 
+		
+		35%
+		Average speed improvement for harvey.tech.
+		
+		Speed Up My Domain Now
+		https://content.cloudflare.com/CSi00c0cO9FX0IZ82B0jC0U
+	- [ ] Check cabinets for important items
+	- [ ] Make trash bag for personal items (save for trash day)
+	- [ ] Scan and put all docs in DevonThink
+	- [ ] Download scanner app by readdle
+	- [ ] Gather everything important for bag
+	- [ ] Order boats for me and Dianna
+	- [ ] Order PS2 for dad
+	- [ ] Text Howard if him or dad have one 1st
+	- Download multiple versions of offline philadelphia maps
+		- maps.me
+		- apple maps
+		- one more
+	- Get Credit cards replaced!
+		- Capital One
+		- Ally
+		- Ardent
+		- Septa Key?
+		- EBT?
+	- Migrating from Authy to Bitwarden for 2fa
+		https://www.dannyguo.com/blog/migrating-from-authy-to-bitwarden-for-2fa-codes/
+	- Call Peco about bill relief- LIHEAP Program
+		If you are having difficulty paying your bill, we may be able to help by setting up a payment arrangement with you. Call 1-888-480-1533 to inquire about payment arrangements.
+	- Due sort (add/swap), Done sort (archive+add search link to bottom of project), Inbox sort (move to section based on icon) = REFRESH custom script
+	domail to create tasks from emails selected in Apple’s Mail app
+	PrivacyTools - Encryption and tools to protect against global mass surveillance - https://www.privacytools.io
+	- Clipboard Identifier
+		Do not edit or delete this manually
+	- goodtask3://smartadd?text=[prompt:Text]
+	- Big brainstorm regarding what should be on the article 🔥 🗃 ❔ 📲 🧹 💬 ✅ 🔐
+		-Project reference files – https://dropbox.com/sdf/randomlinksasdfl;wkejtjg;lkj;ljkwret=0 (the link is dead) #personal #iphone
+	- Untagged
+		- Check out the new restaurant
+			This is an Inbox item. Use the Inbox <omnifocus:///inbox> to quickly capture tasks. While you can work right out of the Inbox, you’ll probably want to organize your tasks with projects and tags. It’s fine to leave items in the Inbox until you have time to decide where they belong.
+		
+		- Welcome to OmniFocus @due(2020-04-28 23:00)
+			What you’re looking at now is a set of sample items we’ve added to help illustrate some common ways of using OmniFocus. The note icon on a row [] indicates some information we think will be helpful—click the icon to see the note. (There’s also an icon [] that means the row doesn’t have a note, but you can click it to add one.) Beyond these sample items, there’s a lot more information available in the Help menu.
+			
+			• On the far left is a tab bar for switching between perspectives — views which are tailored for working on your actions in different ways. Every perspective has its own specific view options — choose Show View Options from the View menu to customize them.
+			
+			• When you need to view or edit something more in-depth, select it and choose Show Inspector from the View menu. The inspector opens on the right, full of details relevant to your selection.
+		
+		- Test the sprinkler system @flagged
+			This action is flagged. Flagging can mean whatever you want it to mean, but it’s often used for items that need some kind of attention soon. Use the Flagged perspective <omnifocus:///flagged> to see all your flagged items.
+		
+		- Build a garden shed @due(2020-04-26 17:00)
+			This is a pretty big action. That’s fine for capturing the goal, but it’s not very actionable. If and when you decide you’re actually going to tackle this, you’ll want to break it down into a collection of smaller items like researching designs and buying specific tools and materials. You might even split it out into its own project.
+		
+		- Sweep the house @due(2020-04-30 17:00)
+		- Clean out the fridge @due(2020-04-29 17:00)
+		- Test Action
+		- See if it's everything I hoped it would be @due(2016-02-28 00:00)
+		- Send TPS reports
+		- Fix printer
+	- personal
+		- adding tags @context(personal) @tags(personal, Action : process, Area : faith, Errand : shopping, Priority : low)
+	- process
+		- adding tags @context(personal) @tags(personal, Action : process, Area : faith, Errand : shopping, Priority : low)
+		- Get ice cream @context(Action : process) @tags(Action : process, Area : faith, Errand : recon, Priority : low)
+			This action is tagged with “Errands”, to make it easy to find when you’re out shopping. You can create any tags you want. We’ve tagged all these sample items with Tutorial tags to make them easy to identify and delete when you’re done with them. Use the Tags perspective <omnifocus:///tags> to see all of the default tags and add your own.
+			
+			When an action has more than one tag, it is listed under each of them.
+	- faith
+		- adding tags @context(personal) @tags(personal, Action : process, Area : faith, Errand : shopping, Priority : low)
+		- Get ice cream @context(Action : process) @tags(Action : process, Area : faith, Errand : recon, Priority : low)
+			This action is tagged with “Errands”, to make it easy to find when you’re out shopping. You can create any tags you want. We’ve tagged all these sample items with Tutorial tags to make them easy to identify and delete when you’re done with them. Use the Tags perspective <omnifocus:///tags> to see all of the default tags and add your own.
+			
+			When an action has more than one tag, it is listed under each of them.
+	- shopping
+		- adding tags @context(personal) @tags(personal, Action : process, Area : faith, Errand : shopping, Priority : low)
+	- recon
+		- Get ice cream @context(Action : process) @tags(Action : process, Area : faith, Errand : recon, Priority : low)
+			This action is tagged with “Errands”, to make it easy to find when you’re out shopping. You can create any tags you want. We’ve tagged all these sample items with Tutorial tags to make them easy to identify and delete when you’re done with them. Use the Tags perspective <omnifocus:///tags> to see all of the default tags and add your own.
+			
+			When an action has more than one tag, it is listed under each of them.
+	- low
+		- adding tags @context(personal) @tags(personal, Action : process, Area : faith, Errand : shopping, Priority : low)
+		- Get ice cream @context(Action : process) @tags(Action : process, Area : faith, Errand : recon, Priority : low)
+			This action is tagged with “Errands”, to make it easy to find when you’re out shopping. You can create any tags you want. We’ve tagged all these sample items with Tutorial tags to make them easy to identify and delete when you’re done with them. Use the Tags perspective <omnifocus:///tags> to see all of the default tags and add your own.
+			
+			When an action has more than one tag, it is listed under each of them.
+	Adventuring-Part 1:
+		- Go North. @due
+		- Go North again to Forest Path. @next
+		- Go up the tree. 
+		- Get the Jewelled Egg. @high
+			This is an important step! You're definitely going to want this egg later.
+			By the way: I like notes in smaller type, especially so they're not so overwhelming when they get long.
+			Or separated into multiple paragraphs like this!
+		- Go down, then north again to clearing.
+			reveals the grating.
+		- Drop the leaves @whatevs
+		- Go East, South, West to Behind the House.
+		- Open window, enter kitchen @today
+		- A thing I should do @due(2020-04-29)
+			This is a note, with a link: http://mattgemmell.co
+		Part 1b:
+			- Open sack, get garlic @today
+			- Go West into Living Room, drop garlic, get lamp @waiting
+			Part 1c:
+				- Go East to kitchen, up to the attic. @context(alert)
+				- Turn on lamp before the Grue eats you! @priority(high)
+				- Get knife, rope.
+				Part 1d:
+					- Go back down. 
+					- turn off lamp @flag
+					- Go East.
+					- Drop knife, rope.
+					- Put Egg in Trophy Case. @done(2016-04-20)
+		Estimate:
+		- @estimate(5min)
+		- @estimate(15min)
+		- @estimate(1hr)
+💡 Ideas:
+📙 READ.ME:
+	Sources - DevonThink, DevonAgent
+	Downloading - Deezloader or qBittorrent
+	Beatunes Processes - 
+	Uplaoding to VOX - 
+	Catalougue - RYM, Notion, Plaintext (RTF), CSV
+	All “stuff” -> 📥, then one of 7 piles:
+		- 1. Archive
+		- 2. Someday/Maybe List (incubate)
+		- 3. Reference File (nothing to do, but need to keep)
+		- 4. Waiting For List (delegated to someone else)
+		- 5. Next Actions List
+		- 6. Calendar (Sacrosanct) 
+		- 7. Projects List/Project Plans
+	- (Example Task) The current state of my GTD tool setup — Robert Talbert, Ph.D. 💬 🦊 📌
+		Project reference files – https://dropbox.com/sdf/randomlinksasdfl;wkejtjg;lkj;ljkwret=0 (the link is dead)
+		[The current state of my GTD tool setup — Robert Talbert, Ph.D.](https://rtalbert.org/the-current-state-of-my-gtd-tool-setup/)
+		The tactical side of GTD is what I use when I am in the trenches, doing stuff and making decisions in the moment. This is the majority of the time I am working, and for those situations I need a tool setup that is fast, flexible, simple, with as little friction as possible, and makes me think as little as possible. This is where the "mind like water" mantra kicks in.
+	Reference Files:
+		- Organize Searches
+		- Organize Tags
+		- What are standard sections
+		- It auto-formats these items so that your lists are easier to read.
+		- Delete this text when you are ready to start your own lists.
+				https://brettterpstra.com/2016/03/16/taskpaper-3-dot-0/
+				TaskPaper 3.0 - BrettTerpstra.com
+		- Things URL Scheme - Things Support ❔ 🧹 💬
+			[Things URL Scheme - Things Support](https://culturedcode.com/things/support/articles/2803573/#link-builder)
+			You can find the full documentation for each supported command further below. If you want to jump right in, here’s a little link builder tool to get you started. Simply fill out some of the fields and the corresponding link will be created for you on the fly. Enjoy!
+	Assets:
+	Websites:
+	Documents:
+	SRC:
+	Templates:
+	Backups:
+📅 Agenda:
+	Goals:
+	Projects:
+	Read / Review:
+	Someday/Maybe:
+🗄️ File Management:
+	My Wiki of various setups for my devices, services and apps.  
+	Hazel - Sorting, Auto
+	Music - BeaTunes
+	Images, Photos - Pixave
+	Icon, Design assets - Icon Jar
+	Files - iCloud Drive
+	Books - Calibre
+	Documents - DevonThink
+	Folder Heirarchy:
+		assets
+		adult
+		archives
+		audio
+		documents
+		games
+		images
+		literature
+		software
+		video
+		
+		- assets
+		- adult
+		- archives
+		- audio
+		- documents
+		- games
+		- images
+		- literature
+		- software
+		- video
+	# Documents (2/6):
+	
+	Sources - DevonThink, DevonAgent
+	Downloading - Deezloader or qBittorrent
+	Beatunes Processes - 
+	Uplaoding to VOX - 
+	Catalougue - RYM, Notion, Plaintext (RTF), CSV
+	Hazel Rules (Tags + Folders):
+		- Apps + Pkgs
+		- PDF’s
+		- Word Docs
+		- Images
+		- Docs - css, html, js etc.
+	## Cloud Services:
+	
+	- [ ] Change + Add new Bucket names
+	## Archives:
+	
+	- [ ] All files accessible by web and cloud
+	- [ ] Zip and move to Archive drive
+	
+	
+	
+	## Downloading Workflow:
+	
+	- [ ] Adjust Deezloader meta tags for folder
+	- [ ] Add to Mega from Discord (10) to start
+	
+	## Processing (BeaTunes) (VOX)
+	
+	- [ ] Import Main Batch once done downloading from MEGA
+	
+	## Destination
+	
+	- [ ] Move to File Cabinet
+	
+	- Catalouge
+	- [ ] Consolidate folders
+	- [ ] Merge Tags
+	- [ ] Add Labels
+	- ## Organizing
+	
+	- [ ] What groups do I need?
+	- [ ] Import smart rule
+	- [ ] Renaming scheme
+	- ## Import
+	
+	- [ ] Email
+	- [ ] Contacts
+	- [ ] Websites
+	- ## Data
+	
+	- [ ] Contacts
+	- [ ] Emails
+	- [ ] Bookmarks
+	- ## Notes
+	
+	- [ ] Paper Notes
+	- [ ] Drafts
+	
+	- ## Pdf’s
+	
+	
+☄️ Knowledge Wiki:
+	Survival:
+🚀 Productivity:
+	Create Master Schedule:
+- 1. Write Down What I want to Do Weekly/Daily
+- 2. Write Every Daily/Weekly Personal Chore
+- 3. Write Down Every Weekly/Daily Work Routine
+- 4. Where do I want to be in 1, 5, and 10 years from now?
+- 5. Identify The Big Rocks
+- 6. Identify The Small Rocks & Cut The Fat
+- 7. Automate or Delegate The Small Rocks (Best You Can)
+- 8. Create a Morning Routine
+- 9. Create an Evening Routine
+- 10. Create and Schedule a Weekly Review
+- 11. Create and Schedule a Daily Mini Review
+- 12. Schedule Your Big Rocks
+- 13. Schedule Your Small Rocks, Chores/Routines
+- 14. Schedule Your Morning Routine
+- 15. Schedule Your Evening Routine
+- 16. Review/Finalize Your Entire New master Schedule
+- 17. Test Your New Schedule Out.
+- 18. Asses Your Test Drive at Your weekly review
+	Daily Review:
+		- Clean desk
+		- Collect Loose Papers and Materials
+		- MailBox
+		- Check your Calendar
+		- Clear your Email Inbox
+		- Clear your Things3 Inbox
+		- Review your Today List
+		- Now Visit your Anytime List
+		- Email
+		- BlackBoard
+		- DevonThink
+		- Voicemail
+	Weekly Review:
+		Evaluate status of projects, goals and outcomes, one by one, ensuring at least one current action item on each. Browse through project plans, support material & any other work-in-progress material to trigger new actions, completions, waiting-for’s, etc.
+		
+		- Add, remove & consolidate projects, delete todos that are no longer relevant
+		- Calendars | Last week, Next week
+		- Review Areas + Projects
+		- Review Project (and Larger Outcome) Lists
+		
+		Tags: recurring
+		When: Today
+	Weekly-Strategy:
+		- Pick your Big Rocks for the Week (5)
+		- Pick your small rocks for the Week (15)
+		- Group "Big Rocks" with similiar “small rocks”
+		- Schedule “Blocks” for the week (Most important Goals on Monday)
+		- Tag “@active" projects for the week
+	
+	- Workflows, Tools
+	- Open Loops
+	- LifeHacks
+	- Call Tacron 12 about Military records / Evals or any other documentation Call (619) 437-2572
+	Automation:
+		- TextExpander  Snippets
+	
+	- Fine tune  Habitica
+		https://habitica.fandom.com/wiki/Habitica_Wiki
+	- Contacts - merge, delete, comb, gravatars
+	Workflow:
+	- [ ] Setup Alfred Filter for Primary Tasks
+	- [ ] Setup Journal work-flow - Bullet journal , Notion, Link to Todoist task + reminder
+	
+	
+	Minimalism:
+		De-Clutter:
+			- [ ] Wardrobe Essentials
+		Gone Paperless!:
+			- The Paperless Puzzle - https://getpocket.com/a/read/229363939
+			- Automating Paperless on the Mac - https://getpocket.com/a/read/521726048
+			- Asian Efficiency Simple Paperless - https://getpocket.com/a/read/712859206
+			- Scan All Paper Documents
+			- Keep Only Essentials For Accordian
+			- Put uneeded personal docs in (white bag) take for shredding
+		
+		Tags: 1hr, high, home
+		
+		- [ ] Digital
+		- [ ] Apartment
+		
+		Home Clutter:
+			- [ ] Front
+			- [ ] Drawers
+			- [ ] Kitchen
+			- [ ] Bathroom
+			- [ ] Closet (1)
+			- [ ] Closet (2)
+			- [ ] Bedroom
+			- [ ] Bedroom Closet
+			- [ ] Back Yard
+		Digital Clutter:
+			- Read The Manga for Tidying Up
+			- Inbox Messages
+			- Old Documents
+			- Old Software/Program/Apps
+			- Desktop Icons
+			- Folder Structure
+			- Photos
+			- Music/Movies
+			- Twitter
+			- RSS Subscriptions
+			- Internet Bookmarks
+			- Cookies
+			- Old Contact Information
+			- Passwords/Log-Ins
+			- Email Marketing
+			- Email Accounts
+			- Desktop Background
+			- Temporary Internet Files
+			- Internet Home Page
+			- Disc Clean-up/Defrag
+			- [ ] Email
+			- [ ] Bookmarks
+			- [ ] Files
+			- [ ] Contacts
+			- [ ] Images
+			- [ ] Tweaks
+			- [ ] Passwords
+			- [ ] 2FA
+			- [ ] Apps
+			- [ ] Services
+			- [ ] Online Resources
+			- [ ] Finance + Banking
+			- [ ] Major Accounts
+	Plaintext GTD system:
+	Tags / Labels / Hashtags:
+		Labels:
+			- [ ] DropDelete
+			- [ ] Active
+			- [ ] WorkTask
+			- [ ] School
+			- [ ] Remember
+			- [ ] Archive
+			- [ ] Process
+		
+		- Task
+		- ⬜ Todo
+		- ✔ Done
+		- ✘ Cancelled
+		☐ Projects will show some statistics next to them @1h
+			✔ By default those statistics are the number of pending todos and the sum of their time estimates @30m
+		- Done @done(17-11-03 20:10)
+		☐ started @started(17-11-03 10:42)
+		✔ completed @started(17-11-03 10:42) @done(17-11-03 20:10) @lasted(9 hours 28 minutes 52 seconds)
+		✘ cancelled @started(17-11-03 10:42) @cancelled(17-11-03 20:10) @wasted(9 hours 28 minutes 53 seconds)
+		☐ estimate @1h @est(10 days and 1 minute)
+		- Done @donenot
+		- Cancelled @cancelled
+		- Cancelled @cancelled(17-11-03 20:10)
+		- Cancelled @cancellednot
+		- 🔥 🗃 ❔ 📲 🧹 💬 ✅ 🔐 📌 🦊
+		- Search / Sort Values = @🔥 @🗃 @❔ @📲 @🧹 @💬 @✅ @🔐 @📌 @🦊
+		- _Pistachio_ for items tagged @today, @active or @now
+		- _Fountain Blue_ for items tagged @next
+		- _Generic Yellow color_ for items tagged @tomorrow
+		- _Soft Purple_ for items tagged @waiting(VA)
+		- _Froly_ for items tagged @due
+		- _Sunset_ for items tagged @flag @priority(high) or @prio(1)
+		- _Whiskey_ for @goodtask tags
+			@area(public) 
+			@area(private)  
+			@area(personal) 
+			-
+			@action(call)
+			@action(email)
+			@action(buy)
+			@action(download)
+			@action(research)
+			@action(submit)
+			@action(write)
+			-
+			- [ ] DropDelete
+			- [ ] Active
+			- [ ] WorkTask
+			- [ ] School
+			- [ ] Remember
+			- [ ] Archive
+			- [ ] Process
+			
+			@status(completed)
+			@status(delivered)
+			@status(cancelled)
+			-
+			@device(iPhone) 
+			@device(macbook) 
+			@device(android)
+		priority area device roles action
+		- _Chalky_ for @context tags
+		- _Malibu_ for URLs and Projects (http://support.hogbaysoftware.com/t/script-displaying-the-active-task-in-the-os-x-menu-bar/1290)
+		- Clipboard Identifier
+			@estimate 
+			@ Section(errand, faith, deliverable, mobile, desktop, family, routine, survival) 
+			@ Context(Sch)
+			@ Context(errand)
+			@ Context(errand)
+			@ Context(errand)
+			@ Context(errand)
+			@ Context(errand)
+		Include Tags:
+		Exclude Tags:
+	GLobal Sections (GoodTask):
+		Smart Lists:
+			- Inbox
+			- Today
+			- Upcoming
+			- Anytime
+			- Someday
+			- Logbook
+			- Review
+			- Next
+		Reminder Lists:
+			- Inbox
+			- Today
+			- Upcoming
+			- Anytime
+			- Someday
+			- Logbook
+			- Review
+			- Next
+⤓ Data Hoarder:
+	Media:
+		Music:
+		TV / Anime:
+		Movies:
+	Music + Audio:
+	Sources - 
+	Downloading - Deezloader or qBittorrent
+	Beatunes Processes - 
+	Uplaoding to VOX - 
+	Catalougue - RYM, Notion, Plaintext (RTF), CSV
+	Photo + Images (Pixave):
+		Create collections based on template
+		- mech
+		- battle
+		- desktop wallpapers
+		- rekall
+		- whamen
+		- personal
+		- memes
+		- utility
+		- classified (Q files)
+		- screenshots
+		- artwork
+		- mobile wallpapers
+		- profile pics
+		- video-games
+		- girl ready
+	
+	
+	- [ ] Create collections based on template
+	
+	## Sources:
+	- [ ] Bookmark main resources for music shares and citypop archives
+	- [ ] Check out ratemymusic
+	- [ ] I found the citypop discord!
+	## Downloading Workflow:
+	- [ ] Compare files from mega playlists to artist folders and move
+	## Final Steps:
+	- [ ] Archive what where
+	- [ ] Create Naming rules for various scenarios
+	- [ ] Start Phase 2
+	## Processing (BeaTunes) (VOX):
+	- [ ] Re-install with trial to get the available plugins
+	- [ ] Import to BeaTunes for processing
+	
+	
+	- Culture
+	- Piracy
+		- ANIME
+		- APPS
+		- BOOKS
+		- COVERS
+		- E-Learning
+		- GAMES
+		- MOVIES
+		- MUSIC
+		- TV
+	- Music
+		- artists
+		- books
+		- compilations
+		- podcasts
+		- soundtracks
+	- Games
+	- Calibre
+🔆 Personal:
+	Goodmorning Routine:
+		- [ ] Breakfast
+		- [ ] Email and Notes
+		- [ ] Top Task
+		- [ ] BibleStudy
+		- [ ] Prayer
+		- [ ] Laundry
+		- [ ] Shower
+		- [ ] Clean work area
+	Goodnight Routine:
+		- [ ] Quick Journal
+		- [ ] Plan for next day
+		- [ ] Backblaze Backup
+		- [ ] Hygeine + Shower
+		- [ ] Bible Study
+		- [ ] Prayer
+	
+	Faith Project:
+	Health:
+		- [ ] Direct-to-Home Blood test
+		- [ ] [https://www.wikihow.com/Get-More-Testosterone]
+		- [ ] Status Effects
+		- [ ] Add Insanity to calendar
+		
+		## Hygiene + Grooming
+		
+		
+		## Quit Smoking
+		
+		- [ ] Get used to new Vape
+		- [ ] Keep Nicotione gum on Person
+	
+	
+	Finance:
+	Art of Manliness - 30 Days to a better Man:
+		- [ ] (Day 1: Define Your Core Values)
+		- [ ] (Day 2: Shine Your Shoes)
+		- [ ] (Day 3: Find a Mentor)
+		- [ ] (Day 4: Increase Your Testosterone)
+		- [ ] (Day 6: Update Your Resume)
+		- [ ] (Day 7: Reconnect with an Old Friend)
+		- [ ] (Day 8: Start a Journal)
+		- [ ] (Day 10: Memorize “If”)
+		- [ ] (Day 11: Give Yourself a Testicular Exam)
+		- [ ] (Day 12: Create Your Bucket List)
+		- [ ] (Day 13: Declutter Your Life)
+		- [ ] (Day 15: Make a Meal)
+		- [ ] (Day 16: Create a Budget)
+		- [ ] (Day 18: Find Your N.U.T.s)
+		- [ ] (Day 19: Schedule a Physical Exam)
+		- [ ] (Day 22: Improve Your Posture)
+		- [ ] (Day 23: Learn a Manual Skill)
+		- [ ] (Day 24: Play!)
+		- [ ] (Day 25: Start a Debt Reduction Plan)
+		- [ ] (Day 27: Start a Book)
+		- [ ] (Day 28: Write a Love Letter)
+		- [ ] (Day 29: Conquer a Fear)
+		- [ ] (Day 30: Get a Straight Razor Shave)
+	
+💼 Business:
+	Health + VA Claim + SSDI:
+		This project will help me to achieve better physical and mental health, A therapist to help with coping, and more supplemental income to boost Finances
+		
+		- [ ] Va neurological department, get a copy of my video
+		- [ ] Medicaid mental health (215) 413 3100
+		- [ ] Call Medicare New Primary care
+		
+		## Goals
+		
+		- 05/04/2020 [ ] Complete SSI/SSD requirements package
+		
+		## Requirements
+		
+		- [ ] Research Website and Veteran specific details (SSDI)
+		- [ ] Pull and slice Bipolar Disorder related Medical Docs
+		- [ ] Guide on preparing to fill out application
+		
+		## First Steps
+		
+		
+		## Next Steps
+		
+		- [ ] Call VA about current status and claim deadlines
+		- [ ] Find Therapist - Switch Facility, then attempt = Switch to Community Provider?
+		- [ ] Open an A.B.L.E. Disability retirement fund
+		
+		## Veteran Benefits
+		
+		- [ ] Call VA to change Direct Deposit info to Ally savings
+		- [ ] File reconsideration for latest decision
+		- [ ] Prepare Decision Ready Claim
+		- [ ] Appeal mental health conditions
+		- [ ] Complete Congressional Inquiry
+		
+	# Finance:
+		New credit card, Ally managd portfolio, Ally Bank IRA -> SSDI, A.B.L.E. account
+		
+		- [ ] Create Budget for 2019 / 2020
+		- [ ] Clairi - Savings Budget and credit breakdown
+		- [ ] App that invests spare change
+		- [ ] Sign up for free bitcoin promotion
+		- [ ] M1 Finance | Invest and Earn More
+		- [ ] ✉️ Ally Invest: Cure your stock market scaries
+		
+		## Bills + Subscriptions
+		
+		- 05/04/2020 [ ] Verizon Payment Due = $67.95
+		- 05/04/2020 [ ] Pay Bills
+		- 05/04/2020 [ ] Pay Bills
+		- 06/01/2020 [ ] Pay Bills
+		- [ ] Verizon Payment Due = $67.95
+		
+		## Raise Credit Score to 650
+		
+		- [ ] Dispute Accts on Credit Reports
+		- [ ] Re-apply for a finger hut acct
+		- [ ] Sign-up for 2nd credit card
+		
+		## Ally Bank
+		
+		- [ ] Ally Invest Managed Portfolios now start at just $100💰
+		- [ ] Open IRA account
+		
+		## Capital One Credit Card
+		
+		- [ ] Call to inquire about raising limit
+		
+		## Ardent Credit Union
+	Portfolio Tracker:
+		This is where I will design the foundation for my professional profile
+		
+		## Goals
+		
+		
+		## Requirements
+		
+		- [ ] Define What areas I should include in my Portfolio
+		- [ ] Pull all Docs related to career, certifications, work history, acheivements, projects etc.
+		- [ ] Military (Timeline, Accomplishments)
+		- [ ] Career / Skills Assessment
+		- [ ] Business (Timeline, Accomplishments)
+		
+		## First Steps
+		
+		- [ ] Scrape all info from "Portfolio Tracker" to use as templates
+		
+		## Next Steps
+		
+		- [ ] Plug info into Social Outlets
+		
+		## Portfolium
+		
+		
+		## Resume
+		
+		
+		## Certifications
+		
+		- [ ] Choose 4 certifications for entry level work
+		- [ ] Syracuse - Onward to oppurtunity
+		
+		## LinkedIn: 21 Steps to the Perfect Profile
+		
+		- [ ] Photo Should Always Be Professional
+		- [ ] Your Name Should ONLY Contain Your Name
+		- [ ] Your Headline Should Be Catchy & Have Keywords You Want To Be Found For
+		- [ ] Connect With At Least 501 People
+		- [ ] Provide All Necessary Contact Info
+		- [ ] Customize Your Website Names
+		- [ ] Customize Your Profile URL
+		- [ ] Update Your Status Daily
+		- [ ] Keyword Load Your Summary & Profile
+		- [ ] Write In First Person
+		- [ ] Speak Directly To Your Target Market
+		- [ ] Add Video To Your LinkedIn Profile
+		- [ ] Tell Them To Click Play!
+		- [ ] Skills & Expertise Should Be Filled With Keywords
+		- [ ] Use The “Projects” Section To Promote Products
+		- [ ] Keyword Load Your Current & Past Work History
+		- [ ] Use Keywords When Filling Out Your Experience Section
+		- [ ] Have At Least 10 Recommendations
+		- [ ] Add Volunteer Experience
+		- [ ] Fill “Honors & Awards” With Significant Media Attention
+		- [ ] Join 50 groups
+		
+		## Networking
+		
+		- [ ] Create professional Email signatures for Roles
+		- [ ] Sign up for at least 3 online forums related to my roles
+		- [ ] Design avatar, create profiles, and interract with others on a daily basis.
+		- [ ] Make 1 official post on each forum
+		- [ ] Discover a peaceful outside location
+		- [ ] Find a local coffe shop
+		- [ ] Find a hangout bar
+	Plug info into Social Outlets:
+	Define What areas I should include in my Portfolio
+	
+	Resume - Portfolio - Esig - website - Github - Vcard - LinkediN - Behance
+	
+	- harvey.tech
+	- Linkedin
+	- Portfolium
+	- Github
+	- Dribble
+	- Digital Resume
+	
+	
+✏️ School + IT:
+	- Financial Aid - Eligibility Requirements for Aid Year + Holds
+		Unsatisfied Requirements
+		Requirement	Status	As of Date	Fund	Term
+		CPS Aid Application	Not Received	Dec 07, 2018	 
+			- Application Link Broken
+		
+		http://www.philau.edu/financialaid/inc/docs/19Accl.pdf
+		
+		https://banner.jefferson.edu/pls/tju/bwrkelig.P_DisplayTabs?aidy_in=1920&tab_type=ER&calling_proc_name=bwrksumm.P_DispSumm
+		-
+		
+		Financial aid - View Holds
+		https://banner.jefferson.edu/pls/tju/bwskoacc.P_ViewHold
+		
+		Hold Type	From Date	To Date	Amount	Reason	Originator  Affected
+		Tuition/Cashier Hold	Jun 20, 2019	Dec 31, 2099	 EF	 	Registration Transcripts
+		
+		Veteran's Benefits Pending	Jun 28, 2019	Dec 31, 2099	
+		3840 060619
+		
+		+ Remove Healthcare charges
+		- Email Lisa - No books, ask to temp remove hold, HUM class, 
+		- Email Patty
+		- Setup Up new Direct Deposit
+		- CPS form
+		- Accept Award (Pell Grant)
+		
+		Tags: high, low, urgent
+		When: Today
+	
+	- [ ] Integrate requirements for graduation / important dates to iCal
+	- [ ] Archive Final version of all assignments
+	- [ ] Deans List: calculate projected g.p.a.
+	- [ ] Read portfolio handouts from BlackBoard
+	- [ ] Portfolio (1st Draft)
+	- [ ] Review Voc Rehab contract and input details into Blueprint
+	- [ ] Archive Final version of all assignments
+	- [ ] Begin your ACP Mentoring Program Application
+	- [ ] Namecheap Renewals
+	
+	# Pass CompTIA A+ Cert (0/2):
+	
+	- [ ] Does Multi Service Center = Comptia A+ &/or GMAT
+	- [ ] Email Joe VMSC about Comptia A+ exam
+	
+	Final Phase (0/7):
+		Okay. Take a breathe and just get started, one small step at a time.
+		
+		First, Open Bridge and Email:
+		- Lisa
+		- (((Patty))) Meredith Weber.  Her email is Meredith.weber@jefferson.edu
+		- Financial Aid
+		- Natilee
+		- Academic Advising
+		
+		- 05/04/2020 [ ] Financial Aid - Eligibility Requirements for Aid Year + Holds
+		- [ ] Natilee update email - 3/4 time enrollment?
+		- [ ] Academic Advising
+		- [ ] Temporary Hold + Helthcare charges
+		- [ ] Email Patty Voight
+		- [ ] ✉️ "Provost": "Fall 2019 Add/Drop in BannerWeb"
+		- [ ] ✉️ Chp 31 Veteran "Natilee N.", "Voight, Patricia"
+		
+		## SCPS
+		
+		
+		## Registrar
+		
+		
+		## Student Accounts
+		
+		
+		## Financial Aid
+		
+		
+		## Voc Rehab
+	Admin:
+	Assignments:
+	Graduation:
+	# Get Accepted to UT Austin (0/9):
+	
+	Loren Ipsum Ha dhdhhbbd dndhdbr djdhdbr didn’t
+	
+	- [ ] Submit Full application to UT Austin
+	- [ ] Register and Prepare for GMAT Exam
+	- [ ] ✉️ Applications Open August 1st for the UT Austin Master of Science Programs!
+	- ✉️ Applications Open August 1st for the UT Austin Master of Science Programs!
+		Hi Harvey,
+		
+		As a prospective student to the Master of Science Programs at The University of Texas at Austin, you can begin your application to join the Class of 2021 starting on August 1, 2019. You'll start your journey with one of the largest business school networks in the world and spend an intensive 10 months gaining your Master's degree with some of the top ranked programs in their fields. We encourage you to learn about our specialized Finance, Marketing, IT & Management, Business Analytics, and Energy Management degrees and register for an upcoming info session.
+		
+		
+		Deadlines for the upcoming application cycle are now available - we encourage all applicants to apply as early as possible as all programs are highly competitive and fill seats on a rolling basis.
+		
+		August 1, 2019: Applications Open!
+		October 21, 2019: First Deadline
+		January 27, 2020: Second Deadline & Final International Deadline
+		March 23, 2020: Third Deadline (US and Permanent Residents Applicants Only)
+		May 4, 2020: Final Deadline for US and Permanent Residents
+		
+		If you have any questions, please reach out to us.
+		Hook 'em!
+		
+		Master of Science Programs Admissions
+		The University of Texas at Austin
+		McCombs School of Business
+		512-232-1900 | TexasMSPrograms@mccombs.utexas.edu
+	
+	
+	## Milestone (1)
+	
+	
+	## G.M.A.T
+	
+	- [ ] Create Study Plan and timeline for GMAT exam
+	- [ ] ✉️ Your GMAT Mini Quiz Results
+	
+	## Requirements
+	
+	- [ ] Create Checklist for Admission Requirements
+	- [ ] Register for UT Austin open house + research admissions requirements.
+	
+	## First Steps
+	
+	- [ ] Create Learning Outline of Neccesary skills requirements
+	
+	## Next Steps
+	
+	- [ ] Take GMAT exam
+	
+👨🏾‍💻 Dev + Tech:
+- Backup Important Personal and Work data
+		Github to Backblaze B2 
+		- For now, swing downloaded repo's to B2 from 2018 mac 
+		DevonThink to db's to BackBlaze
+		+ Partition Disk
+		+ Time Machine
+		+ BackBlaze
+		- Devon DB export/backup
+		- Devon Rebuild DB
+		- Delete Local Sync Store
+		- Make B2 Buckets for Github + DevonThink
+		- Mount BackBlaze B2
+		- Mount BlackBoard
+		- Index Mounted Files to DevonThink
+	- Raspberry Pi (1st Device) (0/0)
+	- Cloudflare
+	
+	# Organize Projects (0/1):
+	
+	## Dev Enviornments
+	
+	
+	## Github
+	
+	
+	## Netlify
+	
+	
+	## Terminal
+	# Setup Enviornments (0/12):
+	
+	- [ ] Command Line Tools
+	- [ ] Installing the Git Version Control System
+	- [ ] Text Editors
+	- [ ] Reinstall
+	- [ ] Node.js for JavaScript Development
+	- [ ] Coding Enviornment
+	- [ ] pipenv for Python Development
+	- [ ] SQL Databases
+	
+	## Oh My Zsh (Terminal Shell)
+	
+	- [ ] Extensions, Themes
+	
+	## Coding Enviornment
+	
+	- [ ] Follow Medium article on setting up coomand-line
+	- [ ] Setting Up A Directory Structure for Projects
+	- [ ] Creating SSH Keys
+	
+	## Learning
+	
+	Creative:
+	- [ ] 1st icon set (0/0)
+	- [ ] Album Art (0/0)
+	- [ ] Music Player (0/1)
+	
+	- [ ] Profile = VibranTrack
+	- [ ] @benguild: The official homepage of Ben Guild.
+	- [ ] Melodics - Quick start guide
+	Privacy / Security:
+	- [ ] Contacts
+	- [ ] Delete Gmail
+	3 Categories
+	personal - proton
+	ios - signal
+	backup to standardnotes
+	
+	- Cryptomator
+		- [ ] Setup 1st vault
+		- [ ] Setup more vaults
+		- [ ] Test Backblaze backup of vaults
+	harvey.tech:
+		- [ ] Github Pages
+	Get Backed Up:
+		- [ ] Mac-Files
+		- [ ] Terminal Hub
+		- [ ] Phone
+	
+	Devices:
+		Mac:
+		iPhone:
+			Jailbreak:
+		Android:
+	Web Sites:
+🖍️ Writing:
+	Blog:
+	Posts:
+	Journal:
+📨 Export:
+	- Clipboard Identifier omw
+		Do not edit or delete this manually
+Archive:
+	- Here's one with a link: http://twitter.com/mattgemmell @done(2020-04-29) @project(📥 Export)
+	- Buy some magazine subscriptions @done @project(Another project)
+
+Searches:
+	Not Done @search(not @done)

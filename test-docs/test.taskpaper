@@ -1,0 +1,20 @@
+One project:
+	- Here's a task
+	- Here's one with a link: http://twitter.com/mattgemmell
+	- An example task goes here @my-tag @your-tag
+	- Call the guy about the thing @today
+	- This is an important thing @flag
+		This is a note, with a link: http://mattgemmell.com/
+	- A thing I should do @due(2016-03-17 2pm)
+Another project:
+	- Do nothing @context(home) @flag
+		- See if it's everything I hoped it would be @due(2016-02-28)
+	- Buy some magazine subscriptions @done
+	- Send TPS reports @context(work)
+	- Fix printer @context(outside) @baseball-bat
+Priorities:
+	- This is very important @priority(high)
+	- So is this @priority(1)
+	- This is of moderate importance @priority(normal)
+	- This isn't very important at all @priority(low)
+	- Nor is this @priority(5)

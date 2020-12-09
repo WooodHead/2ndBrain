@@ -1,0 +1,78 @@
+# Photography
+
+Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography).
+
+## Interesting cameras
+
+- [Leica Q2](https://us.leica-camera.com/Photography/Leica-Q/Leica-Q2)
+- [Leica M10P](https://www.nivo-schweitzer.nl/leica-20021-m10-p-body-black-chrome-finish/p23608)
+- [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
+- [Sony Alpha a7 III Mirrorless](https://www.bhphotovideo.com/c/product/1394217-REG/sony_ilce_7m3_alpha_a7_iii_mirrorless.html)
+
+## Presets
+
+- [Kerem's Lightroom presets](http://kerem-bakir.com/shop/)
+- [Rebecca Lily's Lightroom presets](https://www.rebeccalily.com/products)
+- [Renaissance Preset Pack - Kai Böttcher](https://www.kai-boettcher.com/shop/renaissance)
+
+## Links
+
+- [Top 25 Landscape Photographers of 2017](https://www.capturelandscapes.com/top-25-landscape-photographers-of-2017/)
+- [Abstract Iceland From Above By Zack Seckler](https://www.ignant.com/2016/02/01/abstract-iceland-from-above-by-zack-seckler/)
+- [Unsplash](https://unsplash.com) - Beautiful, free photos.
+- [Skuawk](http://skuawk.com) - Public domain photos.
+- [Beautiful images of Mars](https://www.uahirise.org/catalog/index.php?page=1)
+- [Artsy: Photography](https://www.artsy.net/gene/photography)
+- [Artsy: Landscapes](https://www.artsy.net/gene/landscapes)
+- [Artsy: Atmospheric Landscapes](https://www.artsy.net/gene/atmospheric-landscapes)
+- [Artsy: Landscape and Nature Photography](https://www.artsy.net/gene/landscape-and-nature-photography)
+- [Artsy: Color Photography](https://www.artsy.net/gene/color-photography)
+- [What is parallelism and how to use it to improve your photography](https://medium.com/@zellersamuel/what-is-parallelism-and-how-to-use-it-to-improve-your-photography-652240f9408f?sk=75b2840481296e121617627ba8f98e55)
+- [Photographer Captures the Most Amazing Night Time Aerials I Have Ever Seen](http://themindcircle.com/night-time-aerial-photographs/)
+- [British Photography Awards 2018: Check out award-winning pictures](https://www.bbc.co.uk/newsround/47060311)
+- [Apple highlights best photos shot on iPhone around the world (2019)](https://www.apple.com/newsroom/2019/02/apple-highlights-best-photos-shot-on-iphone-around-the-world/)
+- [Photo Critique subreddit](https://www.reddit.com/r/photocritique/) - Amazing sub.
+- [Поляроиды за год](http://sergeykorol.ru/blog/polaroids/)
+- [Two months with the Leica Q2 (2019)](https://photos.mrfrisby.com/two-months-with-the-leica-q2)
+- [Inside the iPhone 11 Camera, Part 1: A Completely New Camera (2019)](https://blog.halide.cam/inside-the-iphone-11-camera-part-1-a-completely-new-camera-28ea5d091071)
+- [Leica Q2 Review](https://www.needoptic.com/leica-q2-review-2019)
+- [Death to Stock](https://deathtothestockphoto.com/) - Artist Owned Co-op that provides you with the most authentic stock photos and videos.
+- [2019 Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2019-photomicrography-competition)
+- [Beautiful buildings in architecture photography prize – in pictures (2020)](https://www.theguardian.com/artanddesign/gallery/2020/jan/28/beautiful-buildings-in-architecture-photography-prize-in-pictures)
+- [PhotoPrism](https://github.com/photoprism/photoprism) - Server-based application for browsing, organizing and sharing your personal photo collection.
+- [Reddit multi part photography class](https://www.reddit.com/r/photoclass/)
+- [Photo Stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream.
+- [Photile](https://photile.co/) - Create photo collages from your Instagram photos quickly and easily.
+- [Glass Photo](https://glass.photo/) - Community-focused app for photographers and photography enthusiasts.
+- [Leica Q](https://craigmod.com/essays/leica_q/) - Six month field test.
+- [How to build a darkroom for £100 or less (2020)](https://www.35mmc.com/06/04/2020/darkroom-technique-part-1-how-to-build-a-darkroom-for-100-or-less-by-sroyon-mukherjee/) ([HN](https://news.ycombinator.com/item?id=22948687))
+- [Retrato: A Guide to Portrait Photography, Gaining Followers and Making Money](https://www.notion.so/Retrato-9de8ae4447804ed189838bd3a8b3d509)
+- [Scenius Gallery](https://www.sceniusgallery.com/)
+- [Using SQL to find my best photo of a pelican according to Apple Photos (2020)](https://simonwillison.net/2020/May/21/dogsheep-photos/) ([Tweet](https://twitter.com/simonw/status/1263550178134376448)) ([HN](https://news.ycombinator.com/item?id=23271053))
+- [OSXPhotos](https://github.com/RhetTbull/osxphotos) - Provides the ability to interact with and query Apple's Photos.app library database on MacOS.
+- [Photopea](https://www.photopea.com/) - Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. ([Manual](https://www.photopea.com/learn/)) ([AMA with creator](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/))
+- [Photograph what makes you Happy (Ignore the Labelmakers and Gatekeepers) (2020)](https://www.youtube.com/watch?v=ZJGZxzH_ZpU)
+- [Sean Tucker's photography learning playlists](https://www.youtube.com/user/seantuckermerge/playlists)
+- [Lobsters: How do you organize your photos? (2020)](https://lobste.rs/s/dmsavh/how_do_you_organize_your_photos)
+- [Photoslog](https://github.com/michaelvillar/photoslog) - Simple page to show a log of your photos.
+- [Abstract: The Art of Design | Platon: Photography (2020)](https://www.youtube.com/watch?v=BDpqt-haLLM) ([Reddit](https://www.reddit.com/r/photography/comments/gv6pxs/abstract_the_art_of_design_platon_photography/))
+- [What is a digital photo, really? (2020)]https://capnfabs.net/posts/what-is-a-digital-photo-really/)
+- [How Does Lossless Compression in Fuji RAF Files work? (2020)](https://capnfabs.net/posts/fuji-raf-compression-algorithm/)
+- [Computational Photography - From Selfies to Black Holes](https://vas3k.com/blog/computational_photography/)
+- [AMOR](http://amor.katebellm.com/) - Culmination of moments of Kates trips and travels over the last 10 years.
+- [20 Most Iconic Photographs And The Cameras That Captured Them](https://themindcircle.com/iconic-photographs/)
+- [HN: Olympus quits camera business after 84 years (2020)](https://news.ycombinator.com/item?id=23644253)
+- [Photography Workflow (2020)](https://simonsarris.substack.com/p/photography-workflow)
+- [Reverse engineering a camera protocol for fun and profit (2020)](https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/) ([HN](https://news.ycombinator.com/item?id=23855884))
+- [What makes a picture good?](https://phillipreeve.net/blog/what-makes-a-picture-good/) ([HN](https://news.ycombinator.com/item?id=23861090))
+- [Manual Photographers Series](https://phillipreeve.net/blog/photography/)
+- [Whats the best photography related advice you have or heard from someone? (2020)](https://www.reddit.com/r/photography/comments/hsufjj/whats_the_best_photography_related_advice_you/)
+- [ReidReviews](https://www.reidreviews.com/)
+- [The surreal art of ‘unnatural lighting’ (2020)](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
+- [Thoughts on cameras in the age of excellent cell phone photos (2020)](https://whatever.scalzi.com/2020/05/05/thoughts-on-cameras-in-the-age-of-excellent-cell-phone-photos/) ([HN](https://news.ycombinator.com/item?id=23389437))
+- [Accidental Cameras](http://people.csail.mit.edu/torralba/research/accidentalcameras/) ([HN](https://news.ycombinator.com/item?id=24352783))
+- [Working with film](https://royniang.com/exposing_film.html)
+- [Wabi-sabi: When BAD PHOTOS are BETTER (2019)](https://www.youtube.com/watch?v=gyCumQ78ZoI)
+- [Jamie Windsor YouTube](https://www.youtube.com/jamiewindsor)
+- [What storage platforms do you use to for pictures or storing family stuff (2020)](https://lobste.rs/s/aa7mkn/what_storage_platforms_do_you_use_for)
+- [Notes on Exposure](https://bismuth.garden/exposure)

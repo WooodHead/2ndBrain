@@ -1,0 +1,47 @@
+# Robots
+
+## Links
+
+- [Can A Thousand Tiny Swarming Robots Outsmart Nature?](https://www.youtube.com/watch?v=dDsmbwOrHJs)
+- [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
+- [Drake](https://github.com/RobotLocomotion/drake) - Model-Based Design and Verification for Robotics.
+- [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+- [Covariant](https://covariant.ai/) - AI Robotics for the Real World. ([Article](https://medium.com/covariant-ai/bringing-robots-from-lab-to-the-real-world-56062ee93dd5))
+- [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) - Algorithms for Walking, Running, Swimming, Flying, and Manipulation.
+- [VIPER - Volume Invariant Position-based Elastic Rods](https://github.com/vcg-uvic/viper)
+- [Machine learning & Robotics: My (biased) 2019 state of the field](http://cachestocaches.com/2019/12/my-state-of-the-field/)
+- [MiniNet: An Efficient Semantic Segmentation ConvNet for Real-time Robotic Applications](https://github.com/Shathe/MiniNet-v2)
+- [Projects from edX | CSMM.103x Robotics](https://github.com/eborghi10/ColumbiaX-Robotics)
+- [Mithi's Hexapod Robot Simulator](https://github.com/mithi/hexapod-robot-simulator)
+- [Stanford Pupper: low-cost quadruped robot](https://stanfordstudentrobotics.org/pupper) ([HN](https://news.ycombinator.com/item?id=23059389))
+- [Flowers Inria](https://flowers.inria.fr/) - Studies mechanisms that can allow robots and humans to acquire autonomously and cumulatively repertoires of novel skills over extended periods of time.
+- [Stanford Quadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped) - Raspberry Pi-based quadruped robots that can trot, walk, and jump.
+- [PyRep](https://github.com/stepjam/PyRep) - Toolkit for robot learning research.
+- [Venom : All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
+- [REx Lab](https://rexlab.stanford.edu/) - Stanford Robotic Exploration Lab.
+- [Open Robotics](https://www.openrobotics.org/) - Offer robotics R&D, consulting, custom engineering, and application development services to industry and government.
+- [Investing in Robotics with YC Founder Trevor Blackwell (2020)](https://www.youtube.com/watch?v=fdxQ_tSBjMY) ([HN](https://news.ycombinator.com/item?id=23760671))
+- [A beginner’s guide to robot programming with Python (2020)](https://thenextweb.com/syndication/2020/07/11/a-beginners-guide-to-robot-programming-with-python/)
+- [Sergey Levine's research](http://people.eecs.berkeley.edu/~svlevine/)
+- [S-RL Toolbox](https://github.com/araffin/robotics-rl-srl) - Reinforcement Learning (RL) and State Representation Learning (SRL) for Robotics.
+- [Open problems in Robotics (2020)](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/) ([HN](https://news.ycombinator.com/item?id=24207424))
+- [Robots I Love (2020)](https://www.charlieharrington.com/robots-i-love)
+- [Multiply Labs](https://multiplylabs.com/) - Personalized medicine. Enabled by robotics.
+- [Guided Curriculum Learning for Walking Over Complex Terrain (2020)](https://arxiv.org/abs/2010.03848)
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms. ([Web](https://atsushisakai.github.io/PythonRobotics/))
+- [Obstacle avoiding robot made with the avr-hal crate, all in Rust](https://github.com/Dajamante/avr-car)
+- [Agility Robotics](https://www.agilityrobotics.com/) ([The Next Steps (2020)](https://www.youtube.com/watch?v=e0AhxwAKL7s))
+- [Vicarious](https://www.vicarious.com/) - Intelligent Robotics for the Next Age of Manufacturing.
+- [How do you Architect your Robots? State of the Practice and Guidelines for ROS-based System](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) ([Code](https://github.com/S2-group/icse-seip-2020-replication-package))
+- [Multiprotocol TX Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - 2.4GHz transmitter module which enables almost any transmitter to control many different receivers and models, including many popular helicopters, planes, quadcopters, and miniquads.
+- [Robotkernel](https://github.com/robots-from-jupyter/robotkernel) - Robot Framework IPython kernel for Jupyter Notebook and JupyterLab.
+- [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. ([Web](https://simtk.org/projects/simbody))
+- [OpenSim Core](https://github.com/opensim-org/opensim-core) - Software that lets users develop models of musculoskeletal structures and create dynamic simulations of movement.
+- [PyDy](https://github.com/pydy/pydy) - Multibody dynamics tool kit.
+- [yeadon](https://github.com/chrisdembia/yeadon) - Human inertia model developed by Fred Yeadon in 1990.
+- [Resonance](https://github.com/moorepants/resonance) - Learning Mechanical Vibration Engineering Through Computation.
+- [Hindsight Experience Replay (HER) in PyTorch](https://github.com/TianhongDai/hindsight-experience-replay)
+- [How to build robots at home (2020)](https://marksaroufim.medium.com/how-to-build-robots-at-home-a9371e3b2da9)
+- [Stanford AI Lab Papers and Talks at CoRL 2020](https://ai.stanford.edu/blog/corl-2020/)
+- [droidlet](https://github.com/facebookresearch/droidlet) - High-level robotics-agent and platform.
+- [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)

@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        {viewport-tag}
+        
+        <style>
+            @font-face {
+                font-family: 'Maven Pro';
+                font-style:normal;
+                font-weight:400;
+                src: url({cache-base-url}/MavenPro-Regular.ttf) format('truetype');
+            }
+        
+            @font-face {
+                font-family: 'Maven Pro';
+                font-style:bold;
+                font-weight:800;
+                src: url({cache-base-url}/MavenPro-Bold.ttf) format('truetype');
+            }
+        
+            @font-face {
+                font-family: 'Fira Sans';
+                font-style:normal;
+                font-weight:400;
+                src: url({cache-base-url}/FiraSans-Regular.ttf) format('truetype');
+            }
+        
+            @font-face {
+                font-family: 'Fira Sans';
+                font-style:bold;
+                font-weight:800;
+                src: url({cache-base-url}/FiraSans-Medium.ttf) format('truetype');
+            }
+        
+        @font-face {
+            font-family: 'Lato';
+            font-style:normal;
+            font-weight:400;
+            src: url({cache-base-url}/Lato-Regular.ttf) format('truetype');
+        }
+        
+        @font-face {
+            font-family: 'Lato';
+            font-style:bold;
+            font-weight:800;
+            src: url({cache-base-url}/Lato-Bold.ttf) format('truetype');
+        }
+        
+            @font-face {
+                font-family: 'OpenDyslexic';
+                src: url({cache-base-url}/OpenDyslexic-Regular.otf) format('opentype');
+            }
+        
+        </style>
+        
+        <style id="article-css">{article-css}</style>
+        <script type="text/javascript"> {bionic-js} </script>
+        {bigfoot-js}
+        
+        
+        
+    </head>
+    
+    <body ontouchstart="" id="body">
+    
+    <div id="fiery-header-image"></div>
+    <div id="fiery-header-background"></div>
+    
+        <div id="fiery-header">
+            <span class="fiery-meta">{article-meta}</span>
+            <a href="{link}" id="fiery-title">{title}</a>
+        </div>
+
+	<div id="fiery-content">{content}</div>
+    
+    <script type="text/javascript" src="{cache-base-url}fiery-feeds-2-5.js"></script>
+    <script type="text/javascript">  $.bigfoot(); </script>
+    <script type="text/javascript">  {bionic-reading} </script>
+    
+    </body>
+</html>

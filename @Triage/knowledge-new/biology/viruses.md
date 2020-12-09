@@ -1,0 +1,53 @@
+# Viruses
+
+## Links
+
+- [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/)
+- [COVID-19 Dashboards](https://covid19dashboards.com/) - Site that displays up to date COVID-19 stats, powered by fastpages. ([Code](https://github.com/github/covid19-dashboard))
+- [SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
+- [YC Companies Responding to COVID-19](https://www.ycombinator.com/covid) ([HN](https://news.ycombinator.com/item?id=22687131))
+- [Global Coronavirus Cases](https://coronavirus.projectpage.app/)
+- [COVID-19 - Protecting your family (2020)](https://vimeo.com/399733860)
+- [Reverse engineering SARS-CoV-2](https://github.com/geohot/corona) ([Videos](https://www.youtube.com/watch?v=8vWaawiUteM))
+- [Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out](https://www.coursera.org/learn/covid19-epidemiology)
+- [BioMed Sanity](http://biomed-sanity.com/) - Aspires to help the influx of bioRxiv / medRxiv papers on COVID-19. ([Code](https://github.com/karpathy/covid-sanity))
+- [Why can't we use live SARS-CoV-2 as a Covid-19 vaccine? (2020)](https://www.reddit.com/r/askscience/comments/fwuyem/why_cant_we_use_live_sarscov2_as_a_covid19_vaccine/)
+- [TCN Protocol](https://github.com/TCNCoalition/TCN) - Specification and reference implementation of the CEN Protocol for decentralized, privacy-preserving contact tracing.
+- [Auspice](https://nextstrain.github.io/auspice/) - Interactive exploration of phylodynamic & phylogenomic data. ([Code](https://github.com/nextstrain/auspice))
+- [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents)
+- [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19.
+- [COVID-19: Neurological Hypoventilation](https://mad.science.blog/2020/04/11/covid-19-neurological-hypoventilation/)
+- [Estimating COVID-19's R_t in Real-Time](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb)
+- [Exposure Notification Reference Server | Covid-19 Exposure Notifications](https://github.com/google/exposure-notifications-server)
+- [Epidemic Modeling for Everyone](https://github.com/DataForScience/Epidemiology101)
+- [Things we do and don't yet know about covid-19](https://twitter.com/meganranney/status/1264589288659922945)
+- [Immuni iOS app](https://github.com/immuni-app/immuni-app-ios) ([HN](https://news.ycombinator.com/item?id=23396499))
+- [Immuni's High-Level Description](https://github.com/immuni-app/immuni-documentation)
+- [fastv](https://github.com/OpenGene/fastv) - Ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data.
+- [VaxNow](https://vaxnow.org/) - Friendly Immunization App.
+- [Биофизика вирусов — Олег Батищев (2018)](https://www.youtube.com/watch?v=kNwMwaNHcv8)
+- [Corona Warn App Docs](https://github.com/corona-warn-app/cwa-documentation)
+- [Effective Reproduction Number for COVID-19](https://rt.live/) ([Code](https://github.com/rtcovidlive/covid-dash))
+- [Viruses and the Evolution of Life (2005)](https://www.asmscience.org/content/book/10.1128/9781555817626)
+- [HN: The evidence which suggests that Covid-19 is not a naturally evolved virus (2020)](https://news.ycombinator.com/item?id=23875758)
+- [Computational predictions of protein structures associated with COVID-19 (2020)](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19)
+- [c-19 Long Hauling (2020)](https://blog.rumyra.com/2020-08-14-c-19-long-hauling/)
+- [A Mechanist's Guide to the Coronavirus Genome (2020)](https://csvoss.com/a-mechanists-guide-to-the-coronavirus-genome) ([Tweet](https://twitter.com/csvoss/status/1295458745833594880))
+- [Analysis of the SARS-CoV-2 genome](https://github.com/nqureshi/sars-cov-2)
+- [How COVID-19 can cause psychological problems (2020)](https://www.youtube.com/watch?v=LIOxKVrVRy4)
+- [K: The Overlooked Variable That's Driving the Pandemic (2020)](https://www.theatlantic.com/health/archive/2020/09/k-overlooked-variable-driving-pandemic/616548/) - 19% of cases responsible for 80% of transmissions.
+- [Giant virus discovered with its own CRISPR-like immune system (2016)](https://www.ibtimes.co.uk/could-giant-virus-own-immune-system-be-branch-life-1546905?platform=hootsuite)
+- [This Week in Virology](https://www.microbe.tv/twiv/) - Podcast about viruses.
+- [What is Herd Immunity? Epidemiologists Make Their Case (2020)](https://www.youtube.com/watch?v=QJajHxG3C9A)
+- [Coronavirus Vaccine Tracker (2020)](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+- [COVID-19 Vaccine Tracker](https://thevaccinetracker.com/) ([Code](https://github.com/thevaccinetracker/thevaccinetracker))
+- [Aerosol transmission of Covid-19: A room, a bar and a classroom: how the coronavirus is spread through the air (2020)](https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html) ([Tweet](https://twitter.com/jljcolorado/status/1321599800714817537))
+- [The false promise of herd immunity for COVID-19 (2020)](https://www.nature.com/articles/d41586-020-02948-4)
+- [Covid vaccine: First ‘milestone’ vaccine offers 90% protection (2020)](https://www.bbc.com/news/health-54873105) ([HN](https://news.ycombinator.com/item?id=25033844))
+- [How To Become COVID Savvy In 10 Steps (2020)](https://medium.com/applied-data-science/how-to-become-covid-savvy-in-10-steps-b5942db3ac85)
+- [Are We Being Told the Truth About COVID-19? | Prof. Sucharit Bhakdi (2020)](https://www.youtube.com/watch?v=ZnpnBYgGARE) ([Debunked claims](https://translate.google.com/translate?hl=&sl=de&tl=en&u=https%3A%2F%2Fcorrectiv.org%2Ffaktencheck%2F2020%2F06%2F19%2Fimpfung-gegen-covid-19-sinnlos-sucharit-bhakdi-stellt-unbelegte-behauptungen-auf%2F))
+- [Corona, False Alarm?: Facts and Figures by Karina Reiß (2020)](https://www.goodreads.com/book/show/55370694-corona-false-alarm)
+- [Herd immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics (2020)](https://www.medrxiv.org/content/10.1101/2020.07.23.20160762v3)
+- [SARS-CoV-2 waves in Europe: A 2-stratum SEIRS model solution (2020)](https://www.medrxiv.org/content/10.1101/2020.10.09.20210146v2) ([Tweet](https://twitter.com/federicolois/status/1316127717331480578))
+- [MakAir](https://github.com/makers-for-life/makair) - Covid-19 Open Source Ventilator.
+- [COVID Tracking Project](https://covidtracking.com/)

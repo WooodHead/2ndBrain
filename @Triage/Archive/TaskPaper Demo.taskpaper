@@ -1,0 +1,25 @@
+TaskPaper Mode:
+Editorial supports the .taskpaper plain text todo list format, invented by Jesse Grosjean of Hog Bay Software (see http://hogbaysoftware.com/products/taskpaper).
+- Finish setting up Markdown workflow
+- Email Amazon about account
+The TaskPaper "markup" is very simple: To create a task, just start a line with a dash and a following space.
+- This is a task 
+	Editorial automatically shows a checkbox instead of the dash, but the file is still saved as plain text, and you can open it in any other editor. 
+
+Tasks can be tagged, using the '@' symbol.
+- Another task @home 
+The special @done tag is used to mark finished tasks.
+- A finished task @done(2015-02-21)
+(Tags can contain additional information, like the completion date in parentheses.)
+You can quickly add or remove the @done tag by tapping the checkbox.
+
+To insert a project header, simply type a line that ends with a colon (':'). Everything that isn't a task or project header is considered a note.
+
+Color Labels:
+In Editorial's settings, you can associate tags with color labels. Some tags, like @due, @flagged, and @today have default colors, but you can easily change this.
+- This task should be blue  @today
+- This one is red @flagged
+
+Tips:
+- Tap the triangle next to a project header to hide ("fold") its content. The label next to a folded project shows the number of tasks that are hidden.
+- You can rearrange tasks by dragging the right margin (tap and hold the gray box).
