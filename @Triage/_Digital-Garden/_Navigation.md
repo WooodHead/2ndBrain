@@ -6,8 +6,8 @@ All roads lead home. This your "Central Hub". A map of your "Digital Garden" #im
 ## Home Maps
 ## Index Maps [^1]
 Maps of Content (MOCs):
-00s - [[(000) Meta]], [[(01) My System MOC]], [[(02) Productivity MOC]], [[(03) PKM MOC]], [[(04) Data-Curator MOC]] and [[(05) Automation MOC]], and the following 
-10s - [[(010) 🧠 Mindsets MOC|🧠 Mindsets]] , [[(11) Logic MOC]], [[(12) Concepts MOC]]
+00s - [[(000) Meta MOC]], [[(01) My System MOC]], [[(02) Productivity MOC]], [[(03) PKM MOC]], [[(04) Data-Curator MOC]] and [[(05) Automation MOC]], and the following 
+10s - [[(010) Zettlekasten MOC|🧠 Mindsets]] , [[(11) Logic MOC]], [[(12) Concepts MOC]]
 20s -  [[(20) 🖥 Dev+Tech MOC]], [[(24) Jailbreak-Rooting MOC]]
 30s - [[(30) 🔥 Interests MOC]], [[(31) Theming MOC]]
 40s - [[(40) ⚙️ Skills MOC]], [[(41) Survival MOC]] | [[(24) Jailbreak-Rooting MOC]], [[(49) Claim Filing MOC]]
@@ -18,11 +18,11 @@ Maps of Content (MOCs):
 100s - [[(100) 💭 Projects MOC]] [[(101) Ideas MOC]]
 
  **Inner-led Sense-making**
-	- 000 - [[(000) Meta]] **000s - Meta, PKM, Productivity and MOCs** I mean, this is where it all starts. If you keep any _category_ it should be this one. 
+	- 000 - [[(000) Meta MOC]] **000s - Meta, PKM, Productivity and MOCs** I mean, this is where it all starts. If you keep any _category_ it should be this one. 
 	- *Pages* - 
 	- *Main keywords* - #MOC #maps #TOM, #active, #unsorted #curate, #tasks, #faves #productivity #pkm #data-curator #my-system
 	---	
-    - 010 - [[(010) 🧠 Mindsets MOC|🧠 Mindsets]] **010s - Mind** The mind is a big interest to me and is an integral part of anyone's life. It's also this high up because without our health, what do we have?
+    - 010 - [[(010) Zettlekasten MOC|🧠 Mindsets]] **010s - Mind** The mind is a big interest to me and is an integral part of anyone's life. It's also this high up because without our health, what do we have?
 	- *Main keywords* - #MOC #maps #TOM, #active, #unsorted #curate, #tasks, #faves #productivity #pkm #data-curator #my-system
  	---
 	- 020 - [[020 Concepts MOC|Concepts]] — #concept **020s - Body** The category for Body is next to Mind (maybe you'll want to combine both categories into Mind-Body...)

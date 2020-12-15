@@ -14,6 +14,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "d3c9ea87b643cc91",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Navigation.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -114,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,14 +134,14 @@
   },
   "lastOpenFiles": [
     "_Navigation.md",
-    "(10) 🧠 Mindsets MOC.md",
-    "_Intro.md",
-    "_Home-page.md",
-    "You’re Missing Out on a More Beautiful Mac Desktop - by Owen Caulfield - Medium.md",
-    "You’re Missing Out on a Better Mac Terminal Experience - by Owen Caulfield - Medium.md",
-    "The Zettelkasten Method- Examples to help you get started. - by Rebecca Williams - Oct, 2020 - Medium.md",
-    "Plaintext Project Links.md",
-    "Plaintext Project Articles.md",
-    "markdown-cheatsheet.md"
+    "(030)  Mind MOC.md",
+    "(040) Body MOC.md",
+    "(050) People-Places-Events MOC.md",
+    "(060) Society MOC.md",
+    "(070) Technology  MOC.md",
+    "(080) Skills  MOC.md",
+    "(090) Interests  MOC.md",
+    "(100) Writing  MOC.md",
+    "(200) Goals  MOC.md"
   ]
 }

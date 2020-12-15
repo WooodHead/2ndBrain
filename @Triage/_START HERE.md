@@ -1,7 +1,7 @@
 Welcome to the LYT Kit. LYT stands for **Linking Your Thinking**.
 ### Basics
 - Do we agree on the [[Guiding Principles of PKM]]?
-- Learn how the [[Zettelkasten and LYT Frameworks]] work in tandem.
+- Learn how the [[11.03 Zettelkasten and LYT Frameworks]] work in tandem.
 
 ### Overview
 - [[LYT Kit]] - This is the MOC of this kit.

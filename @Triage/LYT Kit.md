@@ -45,7 +45,7 @@ Other Stuff
 
 ---
 - [[LYT FAQ]]
-	- [[Zettelkasten and LYT Frameworks]]
+	- [[11.03 Zettelkasten and LYT Frameworks]]
 	- [[What is a Zettelkasten - Various Answers]]
 	- [[What is an MOC - Various Answers]]
 	- [[When Naming Notes, What UID should I use]]
