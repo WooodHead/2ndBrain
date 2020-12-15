@@ -33,6 +33,15 @@ Set goals, make plans, review, reflect, and record the "wins".
 
 | #goal | #planning | #metric | —— | #reflection | #review | #win | 
 
+## Chronology
+### 2019
+Planning - Goals Session [[201904071136]]
+Goal Tracking - MMM [[201904079999]]
+2019 Gameplan [[201901019999]] 
+2018 Year Review for Sharing [[201901250859]] 
+2019 January Review [[201901300910]] 
+2019 February Review [[201902100952]] 
+
 ### So, you want to chart a course?
 Use pieces of the following templates as the framework for your next planning and reflection session.
 
@@ -85,3 +94,38 @@ This is for areas of physical health, wellness, training, and exercise.
 ## Old Unsorted Links
 - Exercises [[201903282254]] 
 - Hormetic Stressor [[201903282054]] 
+
+# Finances MOC
+You might want to some of this info out of your digital library. Some areas, like managing taxes, is better with computer folders, PDFs, and spreadsheets. However, there are some areas of finances that do work well within the digital library.
+
+## Auto Info
+Auto Ledger
+
+## Insurance Info
+Insurance Ledger
+
+## Healthcare Info
+Health Insurance Ledger
+General Care Ledger
+Prescription Ledger
+Eye Care Ledger
+Dental Ledger
+
+## Tax Info
+Tax Ledger
+
+## CC Info & Bills
+Annually Recurring Bills
+List of Credit Cards
+ID Ledger
+
+## Real Estate Info
+CCCH
+
+## Stock Info
+Traditional IRA - research
+Roth IRA
+
+## Account Info
+Username Doc from 2009, dusty
+FedEx Account Numbers

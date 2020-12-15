@@ -3,6 +3,16 @@ links: [[(000) 📦 Index|Home]]
 # Writings MOC
 This is where you find your writings—and creations—of all flavors. 
 
+### Main Writing Categories
+- [[Stories MOC]]
+- [[Letters MOC]]
+- [[Essays MOC]]
+- [[Speeches MOC]]
+- [[Best Writings MOC]]
+
+### Writing Projects
+- [[YOUR WRITING PROJECT GOES HERE]] 
+
 | [[Speech MOC]] | [[Story MOC]] | [[Figure MOC]] | [[Catch-All Creation MOC]] |
 
 #journal - These are internal writings - #reflection | #dream | #memory |
@@ -31,5 +41,65 @@ Definitions for the #output:
 #blog - More "know-it-all" declarative tone, around 750 words
 #post - Any social media type of post
 
----
-tags: #MOC
+# Quotes MOC
+Welcome to your "commonplace book" of quotes. Try clicking on #quotes100 to see a couple results. 
+
+==Note: The majority of links and tags won't work since the associated notes are not provided in the starter kit.==
+
+[[Tidbits MOC]]
+[[Quips MOC]]
+
+## Some Categories
+#ancients
+#quips
+#quotes100
+#quotes250
+
+### Health
+#onHealth
+#onNutrition #onDiet 
+#onExercise
+
+### Life & Death
+#onLiving
+#onDying
+#onLegacy
+
+### People
+#onPeople
+#onLeadership
+
+### Personal Development & Virtues
+#onAttitude #onBelief #onCourage
+#onAction #onDoing #onStarting
+#onPerseverance #onToughness
+#onReps #onPractice #onExcellence #onLuck
+#onIntegrity
+
+### Planning and Strategy
+#onGoals
+
+# Journal MOC
+This is private. I would suggest organizing by chronology, and embedding snippets of your favorite journals in bite-size compilations.
+
+## Chronology
+### 2020
+[[2020 Journal Compilation]]
+### 2019
+[[2019 December Journal Compilation]]
+
+### 2018
+### 2017
+### 2016
+### 2015
+### 2014
+### 2013
+### 2012
+### 2011
+### 2010
+### 2009
+### 2008
+### 2007
+### 2006
+### 2005
+### 2004

@@ -12,6 +12,12 @@ There are excellent ways to manage projects and tasks with linked frameworks. Ho
 *Past* — #pastProject
 - [[P- LYT Course v1]]
 - [[P- IMF Kit v3]]
+Dusty Projects
+These projects may have already bit the dust. I'm just keeping track of them here.
+
+your project here
+your project here
+your project here
 
 ---
 Related: [[Ideas MOC]]

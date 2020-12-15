@@ -6,7 +6,6 @@
       {
         "id": "068485578889867a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,12 +15,13 @@
         }
       },
       {
-        "id": "d3c9ea87b643cc91",
+        "id": "a46950a139074fc8",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Navigation.md",
+            "file": "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231
+    "width": 242.01218795776367
   },
   "right": {
     "id": "a93b2a2c25b478d9",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Navigation.md",
+                "file": "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Navigation.md"
+                "file": "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md"
               }
             }
           },
@@ -125,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,15 +134,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_Navigation.md",
-    "(030)  Mind MOC.md",
-    "(040) Body MOC.md",
-    "(050) People-Places-Events MOC.md",
-    "(060) Society MOC.md",
-    "(070) Technology  MOC.md",
-    "(080) Skills  MOC.md",
-    "(090) Interests  MOC.md",
-    "(100) Writing  MOC.md",
-    "(200) Goals  MOC.md"
+    "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md",
+    "@Triage/_pHabits/Reps.md",
+    "@Triage/_pHabits/Preparing for the next day is an important habit.md",
+    "@Triage/_pHabits/An asymptotic curve models the development of skills, strength, habits, and more.md",
+    "@Triage/_pMOCs/Walking through the 3 phases of MOCs.md",
+    "@Triage/_pMOCs/The 3 phases of MOCs, a coda.md",
+    "@Triage/_pMOCs/The 3 phases of MOCs.md",
+    "@Triage/_pMOCs/Habits MOC - Unifying Phase.md",
+    "@Triage/_pMOCs/Habits MOC - Colliding Phase.md",
+    "@Triage/_pMOCs/Habits MOC - Assembling Phase.md"
   ]
 }

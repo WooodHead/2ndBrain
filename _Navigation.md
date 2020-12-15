@@ -32,7 +32,7 @@ I mean, this is where it all starts. If you keep any category it should be this 
 (021) Projects.md
 (022) Lists.md
 
-## Zettlekasten
+## Zettlekasten & PKM
 **010s - Meta, PKM, Productivity and MOCs**
 I mean, this is where it all starts. If you keep any category it should be this one. 
 
@@ -44,6 +44,9 @@ I mean, this is where it all starts. If you keep any category it should be this 
 (023) Project management.md
 (025) Knowledge Management.md
 (026) File + Data management.md
+My system
+GTD
+Automation
 
 ## Mind
 **030s - Mind**
@@ -52,6 +55,9 @@ The mind is a big interest to me and is an integral part of anyone's life. It's 
 (011) Mindsets + Concepts.md
 (012) Sources.md
 (013) Systems.md
+Logic
+Strategy
+Personal Development & Virtues
 
 ## Body
 **040s - Body** 
@@ -66,6 +72,11 @@ This just works here better than anywhere else. It sort of connects to Interests
 (014) People.md
 (015) Places.md
 (016) Trends.md
+(60) 👨🏾‍💻 People MOC.md
+(61) Me MOC.md
+(62) Thought Leaders MOC.md
+(63) Historical Figures MOC.md
+(64) Places MOC.md
 
 ## Society
 **060s - Journal**
@@ -89,6 +100,8 @@ Journal is next to Writings. These are private.
 (075) SecDevOps.md
 (076) Apps.md
 (077) Devices.md
+(047) Data-hoarding
+(097) Data-Curating
 
 ## Skills
 **080s - Interests**
@@ -101,6 +114,7 @@ Another word for "Interests" would be "*Inputs*". These are things you might say
 (064) Hacking.md
 (065) Self-Defense.md
 (066) Emergency aid.md
+(49) Claim Filing MOC.md
 
 ## Interests
 **090s - Interests**
@@ -114,6 +128,7 @@ Another word for "Interests" would be "*Inputs*". These are things you might say
 (085) Rap-battles.md
 (051) RPG's.md
 (052) Cyberpunk.md
+Jailbreak-Rooting
 
 ## Writings
 **100s - Writings**
@@ -131,6 +146,9 @@ These are my longer-form"*Outputs*", anything from online posts to essays to spe
 **200s - Goals and Finances** 
 Goals and Finances are next to Journal because they are private too. Both Goals and Finances use the "command center" pre-frontal cortex aspect of our brain so they go together in their executive functioning.
 
+Planning and Strategy
+(80) 🎯 Goals MOC.md
+(85) Finances MOC.md
 (031) Compass.md
 (032) Goals.md
 (033) Faith.md
@@ -142,4 +160,12 @@ Goals and Finances are next to Journal because they are private too. Both Goals 
 
 ## Projects
 **300s - Ideas and Projects**
-These sort of transcend my 10 main categories, but it's essential they are close by. Ideas are fledging. Projects are ideas that I've actually decided to work on. l
+These sort of transcend my 10 main categories, but it's essential they are close by. Ideas are fledging. Projects are ideas that I've actually decided to work on. 
+
+1. Projects
+2. Areas
+3. Resouces
+4. Archive
+
+(100) 💭 Projects MOC.md
+(101) Active MOC.md

@@ -7,7 +7,7 @@ tags: #source
 	- created: 2020-06-13
 	- web: 
 	- descriptor tags: 
-	- links: [[S- 2020 - Book - SmartNotes - Ahrens2017]]
+	- links: [[10.03 How to Take Smart Notes]]
 
 ---
 # S- Bob Bain on Reading Comprehension

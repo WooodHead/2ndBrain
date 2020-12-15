@@ -15,7 +15,7 @@ The POC emerges out of the fog of the subconscious. Sometime we pinpoint it soon
 **The Dual Mind**
 The Dual Mind refers to the conscious/subconscious minds. 
 
-We need to develop the skills, awareness, and intuition to identify POCs that can derail our day; so we can effectively deal with them like a master in [[Aikido]] would.
+We need to develop the skills, awareness, and intuition to identify POCs that can derail our day; so we can effectively deal with them like a master in [[80.03 Aikido]] would.
 
 #### Two Micro Habits to improve:
 1. Recognize harmful POCs
