@@ -6,22 +6,11 @@
       {
         "id": "068485578889867a",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_Navigation.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a46950a139074fc8",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md",
+            "file": "_Navigation.md",
             "mode": "source"
           }
         }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md",
+                "file": "_Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md"
+                "file": "_Navigation.md"
               }
             }
           },
@@ -126,14 +115,14 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "_Navigation.md",
     "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md",
     "@Triage/_pHabits/Reps.md",
     "@Triage/_pHabits/Preparing for the next day is an important habit.md",
@@ -142,7 +131,6 @@
     "@Triage/_pMOCs/The 3 phases of MOCs, a coda.md",
     "@Triage/_pMOCs/The 3 phases of MOCs.md",
     "@Triage/_pMOCs/Habits MOC - Unifying Phase.md",
-    "@Triage/_pMOCs/Habits MOC - Colliding Phase.md",
-    "@Triage/_pMOCs/Habits MOC - Assembling Phase.md"
+    "@Triage/_pMOCs/Habits MOC - Colliding Phase.md"
   ]
 }
