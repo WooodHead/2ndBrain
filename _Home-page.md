@@ -52,17 +52,6 @@ All roads lead home. This your "Central Hub". A map of your "Digital Garden" #im
 | software   | Computer Applications, Mobile Apps, Operating Systems        |
 | video      | Movies, Short Movies/Films, TV-Shows, ...                    |
 
-- jojijipo
-	- huiohuihiu
-	- mono
-		- nmkn
-		- nonl
-		- kmlm
-			- vjvjv
-			- ijikjn
-			- nknmnl
-			- 
-
 ##### Front Matter Templates for Commonly Used MOCs
 links: [[000 Index|Index]], [[005 Active MOC|Active]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[020 Body MOC|Body]], [[030 People MOC|People]], [[035 Places MOC|Places]], [[040 Interests MOC|Interests]], [[050 Quotes MOC|Quotes]], [[055 Figures MOC|Figures]], [[060 Writings MOC|Writings]], [[070 Journal MOC|Journal ]], [[(032) Goals|Goals]], [[(85) Finances MOC|Finances]], [[(03) PKM MOC|PKM]], [[(095) Lists MOC|Lists]], [[100 Ideas MOC| Ideas]], [[(100) Projects MOC|Projects]] — [[IMF Intro]]
 

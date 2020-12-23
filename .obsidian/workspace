@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Navigation.md",
+            "file": "_Home-page.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Navigation.md",
+                "file": "_Home-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Navigation.md"
+                "file": "_Home-page.md"
               }
             }
           },
@@ -122,15 +122,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_Home-page.md",
+    "(010) Zettlekasten MOC.md",
+    "(000) Meta MOC.md",
+    "_SCRATCH PAD.md",
+    "_Intro.md",
     "_Navigation.md",
     "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md",
     "@Triage/_pHabits/Reps.md",
     "@Triage/_pHabits/Preparing for the next day is an important habit.md",
-    "@Triage/_pHabits/An asymptotic curve models the development of skills, strength, habits, and more.md",
-    "@Triage/_pMOCs/Walking through the 3 phases of MOCs.md",
-    "@Triage/_pMOCs/The 3 phases of MOCs, a coda.md",
-    "@Triage/_pMOCs/The 3 phases of MOCs.md",
-    "@Triage/_pMOCs/Habits MOC - Unifying Phase.md",
-    "@Triage/_pMOCs/Habits MOC - Colliding Phase.md"
+    "@Triage/_pHabits/An asymptotic curve models the development of skills, strength, habits, and more.md"
   ]
 }
