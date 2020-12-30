@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Home-page.md",
+            "file": "_Navigation.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Home-page.md",
+                "file": "_Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Home-page.md"
+                "file": "_Navigation.md"
               }
             }
           },
@@ -122,12 +122,12 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_Navigation.md",
     "_Home-page.md",
     "(010) Zettlekasten MOC.md",
     "(000) Meta MOC.md",
     "_SCRATCH PAD.md",
     "_Intro.md",
-    "_Navigation.md",
     "@Triage/_pHabits/Writing down daily goals in the morning is an important habit.md",
     "@Triage/_pHabits/Reps.md",
     "@Triage/_pHabits/Preparing for the next day is an important habit.md",
